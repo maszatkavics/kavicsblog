@@ -1,2 +1,9 @@
-<h1>Hello Bello!<h1>
-
+---
+layout: post
+---
+<h1>Kavics blog</h1>
+{% for post in site.posts %}
+<h2>
+    <a href="{{site.url}}{{post.url}}">{{post.title}} ({{post.date | date_to_long_string}})</a>
+</h2>
+{% endfor %}
