@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5E909934237EC206006D95BA /* _site */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _site; sourceTree = "<group>"; };
+		5E909935237EC207006D95BA /* Gemfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
+		5E909936237EC207006D95BA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5E909937237EC207006D95BA /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		5E909938237EC207006D95BA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		5E909939237EC207006D95BA /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
+		5E90993A237EC207006D95BA /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5E90992D237EC1A7006D95BA = {
+			isa = PBXGroup;
+			children = (
+				5E90993A237EC207006D95BA /* _posts */,
+				5E909934237EC206006D95BA /* _site */,
+				5E909939237EC207006D95BA /* _config.yml */,
+				5E909937237EC207006D95BA /* Gemfile */,
+				5E909935237EC207006D95BA /* Gemfile.lock */,
+				5E909938237EC207006D95BA /* index.html */,
+				5E909936237EC207006D95BA /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5E90992E237EC1A7006D95BA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1120;
+			};
+			buildConfigurationList = 5E909931237EC1A7006D95BA /* Build configuration list for PBXProject "kavicsblog" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5E90992D237EC1A7006D95BA;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5E909932237EC1A7006D95BA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5E909933237EC1A7006D95BA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5E909931237EC1A7006D95BA /* Build configuration list for PBXProject "kavicsblog" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E909932237EC1A7006D95BA /* Debug */,
+				5E909933237EC1A7006D95BA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5E90992E237EC1A7006D95BA /* Project object */;
+}
