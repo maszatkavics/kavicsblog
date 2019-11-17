@@ -1,0 +1,15 @@
+---
+author: kalmanp
+comments: true
+date: 2004-06-08 23:36:24+00:00
+layout: post
+link: http://kavics.me/190/
+slug: '190'
+title: No Content Found
+wordpress_id: 190
+categories:
+- Uncategorized
+---
+
+_It's just a dream!  
+![](http://kavics.freeblog.hu/Files/delfin.jpg)_

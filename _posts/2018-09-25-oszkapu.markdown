@@ -1,0 +1,21 @@
+---
+author: kalmanp
+comments: true
+date: 2018-09-25 21:13:52+00:00
+layout: post
+link: http://kavics.me/oszkapu/
+slug: oszkapu
+title: Őszkapu
+wordpress_id: 1429
+categories:
+- blog
+tags:
+- art
+- esti
+- flow
+- képes
+- lélek
+- ősz
+---
+
+![Őszkapu](/wp-content/uploads/2018/09/img_0053.jpg)[video src="http://kavics.me/wp-content/uploads/2018/09/img_0054.m4v" ]

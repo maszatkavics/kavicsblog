@@ -1,0 +1,15 @@
+---
+author: kalmanp
+comments: true
+date: 2005-02-25 10:12:00+00:00
+layout: post
+link: http://kavics.me/352/
+slug: '352'
+title: No Content Found
+wordpress_id: 352
+categories:
+- Uncategorized
+---
+
+Ahoz képest, hogy egyetemi laborhoz keresesk cikkeket, egész jópofa dolgok bukkanak fel:  
+[http://www.zen45800.zen.co.uk/tmxxine/infrastructure.htm](http://www.zen45800.zen.co.uk/tmxxine/infrastructure.htm)

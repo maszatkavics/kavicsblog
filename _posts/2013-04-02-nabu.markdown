@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2013-04-02 21:06:16+00:00
+layout: post
+link: http://kavics.me/nabu/
+slug: nabu
+title: Nabu
+wordpress_id: 58
+categories:
+- mese
+---
+
+Öreg-földi meseerdő manó-lakta dombjai között vidáman bandukolt Nabu. Óriási nagylábujját gondosan emelgette, fütyörészett. A madarak csicsergését hallgatta, felnézett az ágra és akkor. "Na bumm" - kiáltott fel hangosan, mikor belerúgott egy út széli kőbe. Folyt. köv. (és más meséim is remélem idetalálnak majd - Babló, Napó, Bence)

@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2005-08-23 22:55:16+00:00
+layout: post
+link: http://kavics.me/481/
+slug: '481'
+title: No Content Found
+wordpress_id: 481
+categories:
+- Uncategorized
+---
+
+A new blog was born [http://fokxy.freeblog.hu/](http://fokxy.freeblog.hu/) happy nulladik birthday:)

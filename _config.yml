@@ -1,15 +1,13 @@
 name: Kavicsblog
-baseurl: /kavicsblog
+#baseurl: /kavicsblog
 
-permalink: /themes/:title/
+#permalink: /kavicsblog/:title/
 
 plugins: [jekyll-paginate]
 
-highlighter: pygments
-paginate: 20
-
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
+paginate: 10
+#paginate_path: "/kavicsblog/page:num/"
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+
+theme: jekyll-theme-console

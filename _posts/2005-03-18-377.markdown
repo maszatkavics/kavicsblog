@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2005-03-18 07:23:28+00:00
+layout: post
+link: http://kavics.me/377/
+slug: '377'
+title: No Content Found
+wordpress_id: 377
+categories:
+- Uncategorized
+---
+
+Rájöttem rovat: fél6kor kelni, és 3 órát SQL lekérdezéseket írni, közben pörgős Drum&Bass...vajon ennek milyen életteni hatásai lehetnek...asszem nem annyira jó:)...szép napot...és faxba, hogy nincs az a frankó napsütés mint tegnap

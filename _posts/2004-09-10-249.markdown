@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2004-09-10 14:07:29+00:00
+layout: post
+link: http://kavics.me/249/
+slug: '249'
+title: No Content Found
+wordpress_id: 249
+categories:
+- Uncategorized
+---
+
+"Menekülés volt ez az előző pár nap...Magamból...Magamon kívülre...ami kint...az van bent!"

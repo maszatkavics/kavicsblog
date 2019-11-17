@@ -1,0 +1,15 @@
+---
+author: kalmanp
+comments: true
+date: 2005-09-01 12:03:20+00:00
+layout: post
+link: http://kavics.me/484/
+slug: '484'
+title: No Content Found
+wordpress_id: 484
+categories:
+- Uncategorized
+---
+
+Hírcsócsa:  
+" A Google szerint a világ egyetlen információhalmaz, és megismeréséhez - a tudáshoz - a "keresésen" keresztül vezet az út - bármit is jelentsen a keresés." ([link](http://index.hu/tech/net/ggl0831/))

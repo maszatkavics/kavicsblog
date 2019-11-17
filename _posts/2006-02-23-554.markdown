@@ -1,0 +1,17 @@
+---
+author: kalmanp
+comments: true
+date: 2006-02-23 14:41:39+00:00
+layout: post
+link: http://kavics.me/554/
+slug: '554'
+title: No Content Found
+wordpress_id: 554
+categories:
+- Uncategorized
+---
+
+Kocka-élet..egy kis melóblog..szürke szőnyeg, üres fehér fal..neonvillanások..montiorremegés..  
+fáradó szem..eltűnik a természet...csak sok okos emberek..  
+hardwerhiba..software gyorsulás..sok csipegetni való információ..meg összevissza tapasztalás..  
+de lóg a változás lába..ami egyszercsak belémrúg..nice try..move on..nincs ezen sok gondolkodni való..

@@ -1,0 +1,31 @@
+---
+author: kalmanp
+comments: true
+date: 2009-06-04 22:09:14+00:00
+layout: post
+link: http://kavics.me/install/
+slug: install
+title: install
+wordpress_id: 715
+categories:
+- Uncategorized
+---
+
+
+"Installing software..Please wait, this can take some time."
+
+
+
+
+
+
+na ez valóban így van, de lelkesen telepítgetem mindkét oprendszert BORS-ra az új netbookra... ez a tegnapi állapotom..remélem ma lepihenek kicsit előbb:
+
+
+
+
+
+
+![kw kavics](http://farm4.static.flickr.com/3385/3596546942_2a24d31e1c.jpg)   
+
+

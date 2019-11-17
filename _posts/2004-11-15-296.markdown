@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2004-11-15 12:18:17+00:00
+layout: post
+link: http://kavics.me/296/
+slug: '296'
+title: No Content Found
+wordpress_id: 296
+categories:
+- Uncategorized
+---
+
+Írtam, csak nem pont ide:) (ez egy kis rejtvény a "gondolkodni vágyóknak" [)](http://aszk.freeblog.hu)

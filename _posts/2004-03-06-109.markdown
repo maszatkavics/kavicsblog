@@ -1,0 +1,19 @@
+---
+author: kalmanp
+comments: true
+date: 2004-03-06 09:13:08+00:00
+layout: post
+link: http://kavics.me/109/
+slug: '109'
+title: No Content Found
+wordpress_id: 109
+categories:
+- Uncategorized
+---
+
+Hát akkor irány elfele!
+
+
+
+
+(Uticuccok magamnak: [menetrend](http://www.volanbusz.hu/menetrend/nemzetk/m791.htm), [emailcimek](http://kavics.freeblog.hu/Files/addresses.csv),[ favorites](http://kavics.freeblog.hu/Files/bookmark.htm), [horsensiek](http://kavics.freeblog.hu/Files/Ci.zip))

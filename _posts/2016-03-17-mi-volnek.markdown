@@ -1,0 +1,29 @@
+---
+author: kalmanp
+comments: true
+date: 2016-03-17 21:19:27+00:00
+layout: post
+link: http://kavics.me/mi-volnek/
+slug: mi-volnek
+title: Mi volnék?
+wordpress_id: 1164
+categories:
+- blog
+tags:
+- borka
+- esti
+- gyerkőc
+- képes
+- vers
+- vicces
+---
+
+[![Mi volnék?](http://kavics.me/wp-content/uploads/2016/03/Mi-volnék-683x1024.jpg)](http://kavics.me/wp-content/uploads/2016/03/Mi-volnék.jpg)
+
+ui.: este szoktam halkan a gyerkőcök fülébe mondani, utána már nincs több szó. De néha mégis van:
+
+Borkának suttogva:
+
+Apa: "Tűzben fa parazsa volnék, Vízben puha moha volnék, Szélben jegenyefa volnék, Földön apám lánya volnék."
+
+Borka: "Apa, büdös a szád!"

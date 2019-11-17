@@ -1,0 +1,16 @@
+---
+author: kalmanp
+comments: true
+date: 2017-02-15 23:16:27+00:00
+layout: post
+link: http://kavics.me/putdown/
+slug: putdown
+title: putdown?
+wordpress_id: 1255
+categories:
+- blog
+tags:
+- kérdés
+---
+
+

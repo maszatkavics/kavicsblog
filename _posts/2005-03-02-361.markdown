@@ -1,0 +1,24 @@
+---
+author: kalmanp
+comments: true
+date: 2005-03-02 18:06:24+00:00
+layout: post
+link: http://kavics.me/361/
+slug: '361'
+title: No Content Found
+wordpress_id: 361
+categories:
+- Uncategorized
+---
+
+Még egy vicces összefüggés...írtam pár bejegyzéssel lejebb a Gondolatról, hogy az az alapegység meg ilyenek...na most azt nem olvastam sehol...csak úgy kipattant a fejemből...erre mi az első mondat a könyvben (Java tanulós:) amit ma elkezdtem:
+
+
+
+
+“He gave man speech, and speech created thought, Which is the measure of the Universe”—[Prometheus Unbound, Shelley](http://www.bartleby.com/139/shel116.html)
+
+
+
+
+Pedig én próbálok eredeti lenni:)

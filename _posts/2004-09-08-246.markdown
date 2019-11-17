@@ -1,0 +1,16 @@
+---
+author: kalmanp
+comments: true
+date: 2004-09-08 13:38:11+00:00
+layout: post
+link: http://kavics.me/246/
+slug: '246'
+title: No Content Found
+wordpress_id: 246
+categories:
+- Uncategorized
+---
+
+"MIndig csak az előttünk álló Utat keressük, csak ritkán nézünk vissza.  
+Hasonló Út volt már: Apánk útja, **Anyánk** útja!  
+..És sziklaként szakad Ránk: Apánk terhe, Anyánk terhe!"

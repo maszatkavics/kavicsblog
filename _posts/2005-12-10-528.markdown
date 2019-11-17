@@ -1,0 +1,31 @@
+---
+author: kalmanp
+comments: true
+date: 2005-12-10 12:17:13+00:00
+layout: post
+link: http://kavics.me/528/
+slug: '528'
+title: No Content Found
+wordpress_id: 528
+categories:
+- Uncategorized
+---
+
+
+
+
+**Attila:**Akinek sikerül tudatosan irányítani a gondolatok priorizálását  
+végző GOndolatot, annak sikerülhet túl lépni a létező/nem létező téer   
+és idő fogalmain.  
+**Attila:**scheduler  
+**Peterke:**bizony..de ez már egy régebbi ötletem..mondjuk szerdai  
+**Attila:**jah  
+**Peterke:**az maga a megvilágosodás..mikor nem PRIORIZÁLSZ  
+**Attila:**scheduler problémával én is küzdök  
+**Peterke says: ...................  
+****Attila:** kérdés hogy akkor mi van   
+**Attila:**vagy multitask ütemezés nélkül?  
+**Peterke:**AHA (multitask:)  
+**Attila**:mind a kettő durva lehet  
+**Attila:**de singletask nem hiszem hogy lenne  
+**Attila:**inkább a durva multitask

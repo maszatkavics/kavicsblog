@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2005-02-26 10:20:28+00:00
+layout: post
+link: http://kavics.me/353/
+slug: '353'
+title: No Content Found
+wordpress_id: 353
+categories:
+- Uncategorized
+---
+
+"A** lokális felelősség elve** szerint minden objektum felelős önmagáért" [[Objektum-orientált szoftverfejlesztés](http://www.prog.hu/konyvek/?bid=61)] ... és még sok más "érdekes is van benne...retro:)

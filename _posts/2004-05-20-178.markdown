@@ -1,0 +1,15 @@
+---
+author: kalmanp
+comments: true
+date: 2004-05-20 20:37:11+00:00
+layout: post
+link: http://kavics.me/178/
+slug: '178'
+title: No Content Found
+wordpress_id: 178
+categories:
+- Uncategorized
+---
+
+Gondolatok: "Azt hiszem Rádférne az élettől egy pár nagy pofon!"  
+

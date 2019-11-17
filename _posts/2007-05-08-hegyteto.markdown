@@ -1,0 +1,18 @@
+---
+author: kalmanp
+comments: true
+date: 2007-05-08 01:31:55+00:00
+layout: post
+link: http://kavics.me/hegyteto/
+slug: hegyteto
+title: hegytető
+wordpress_id: 642
+categories:
+- Uncategorized
+---
+
+
+Mi történik odafennt a [hegytetőn](http://www.robogeo.com/Flickr2Map/?type=map&view=hybrid)? : elkezdtem játszani a fotóinkkal..jópofa:)   
+
+..akinek van felrakva [GoogleEarth](http://earth.google.com/download-earth.html), annak itt a [](/files/orrvakar.kml)[3D verzió](http://www.pinavadasz.hu/kavics/kml/orrvakar.zip)  
+

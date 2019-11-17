@@ -1,0 +1,16 @@
+---
+author: kalmanp
+comments: true
+date: 2006-10-01 07:14:03+00:00
+layout: post
+link: http://kavics.me/levelek/
+slug: levelek
+title: levelek
+wordpress_id: 618
+categories:
+- Uncategorized
+---
+
+
+![levelek idézet](http://kavics.freeblog.hu/files/!levelek_collage2.jpg)
+

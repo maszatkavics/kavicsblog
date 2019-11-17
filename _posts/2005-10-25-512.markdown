@@ -1,0 +1,15 @@
+---
+author: kalmanp
+comments: true
+date: 2005-10-25 21:53:32+00:00
+layout: post
+link: http://kavics.me/512/
+slug: '512'
+title: No Content Found
+wordpress_id: 512
+categories:
+- Uncategorized
+---
+
+![](http://kavics.freeblog.hu/Files/nanoc.jpg)négy nanométer.."az egyenként hatvan szénatomból álló kerekein a Nanocar valóban gurul, nem pedig csúszik."  
+NANOautó.. lehet vele atomokat szállítani...COOL

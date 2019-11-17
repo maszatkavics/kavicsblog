@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2005-07-26 19:00:51+00:00
+layout: post
+link: http://kavics.me/465/
+slug: '465'
+title: No Content Found
+wordpress_id: 465
+categories:
+- Uncategorized
+---
+
+sokkal durvábban kéne szelektálni, különben elporladok, és én magam is káosz leszek...ami amugy lehet hogy jó...

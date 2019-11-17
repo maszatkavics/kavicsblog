@@ -1,0 +1,14 @@
+---
+author: kalmanp
+comments: true
+date: 2005-05-24 07:22:53+00:00
+layout: post
+link: http://kavics.me/419/
+slug: '419'
+title: No Content Found
+wordpress_id: 419
+categories:
+- Uncategorized
+---
+
+![](http://kavics.freeblog.hu/Files/öcssbrunos.JPG)légyen itt másik öccsömről is picture..meg Brúnó is:)

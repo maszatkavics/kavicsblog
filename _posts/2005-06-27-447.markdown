@@ -1,0 +1,19 @@
+---
+author: kalmanp
+comments: true
+date: 2005-06-27 22:13:32+00:00
+layout: post
+link: http://kavics.me/447/
+slug: '447'
+title: No Content Found
+wordpress_id: 447
+categories:
+- Uncategorized
+---
+
+_Ma Nem Írok Semmit_ - ne is kommentezzetek!
+
+
+
+
+inspirálta egy [Zen tanulmány](http://www.terebess.hu/keletkultinfo/merton.html)

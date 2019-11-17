@@ -1,0 +1,16 @@
+---
+author: kalmanp
+comments: true
+date: 2009-06-19 08:52:30+00:00
+layout: post
+link: http://kavics.me/norc-home/
+slug: norc-home
+title: norc home
+wordpress_id: 719
+categories:
+- Uncategorized
+---
+
+
+
+itt meg a [meló-heló](http://norc.hu/pano/zZd5kXFl/) :)
