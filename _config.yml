@@ -1,5 +1,5 @@
 name: Kavicsblog
-#baseurl: /kavicsblog
+baseurl: /kavicsblog
 
 #permalink: /kavicsblog/:title/
 
@@ -9,7 +9,7 @@ paginate: 20
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 
-theme: jekyll-theme-console
+#theme: jekyll-theme-console
 #style: light
 header_pages:
   - about.md
