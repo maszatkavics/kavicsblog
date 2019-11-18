@@ -1,3 +1,2 @@
-gem 'github-pages'
-gem "jekyll-theme-console"
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-paginate"
