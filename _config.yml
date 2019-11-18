@@ -1,7 +1,7 @@
 title: Kavicsblog
 baseurl: /kavicsblog
 
-#permalink: /kavicsblog/:title/
+permalink: /:title/
 
 plugins: [jekyll-paginate]
 paginate: 20

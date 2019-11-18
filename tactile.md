@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Tactile theme
 ---
-[Tactile](https://github.com/pages-themes/tactile) theme
-
+The blog is using: [Tactile theme](https://github.com/pages-themes/tactile)
+* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

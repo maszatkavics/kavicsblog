@@ -1,9 +1,6 @@
 ---
 layout: page
-title: /about
-permalink: /about/
+title: Ez mi ez?
 ---
 
-# Ez mi ez?
-
-Alakulós vizuál-virtuál szösszenet gyűjtemény, avagy a "per pillanat"-tól az "Ek Ong Kar"-ig.
+>Alakulós vizuál-virtuál szösszenet gyűjtemény, avagy a "per pillanat"-tól az "Ek Ong Kar"-ig.
