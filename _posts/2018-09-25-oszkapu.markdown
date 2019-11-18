@@ -18,4 +18,4 @@ tags:
 - ősz
 ---
 
-![Őszkapu](/wp-content/uploads/2018/09/img_0053.jpg)[video src="/wp-content/uploads/2018/09/img_0054.m4v" ]
+![Őszkapu](/kavicsblog/wp-content/uploads/2018/09/img_0053.jpg)[video src="/kavicsblog/wp-content/uploads/2018/09/img_0054.m4v" ]

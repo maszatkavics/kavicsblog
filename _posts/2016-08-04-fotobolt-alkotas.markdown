@@ -18,10 +18,10 @@ tags:
 Tündérnek ez nem tetszik, csak ki van akadva, hogy háromezer forint egy gumis lepedő, a kölkeinknek. Nem igazán tud rajta túllépni, pedig finom szűretlen búzasörrel is kínálom. Igazándiból egy képmontázst szerettem volna inkább idepublikálni, de sok volt a nyári kép, és túl jók a hangulatok, és nem volt erőm alkotni belőlük, mert magukban is jók.
 
 Aztán mivel ma életemben először sikeresen dolgoztam egy kicsit FotóBolt programmal, így inkább azt buzergáltam, direkt minden tutoriált mellőzve. Igazándiból egyedül az ecsetet tudtam rábírni, hogy valamit alkosson nekem. Meg még valami nagyon faja 3D dolgot is belekreáltam, de arra azt írta, hogy 16perc kiszámolnia, és füstölt tőle a masina..[
-](/wp-content/uploads/2016/08/Screen-Shot-2016-08-03-at-21.52.07.png)[![art](/wp-content/uploads/2016/08/IMG_9259.jpg)](/wp-content/uploads/2016/08/IMG_9259.jpg)
+](/kavicsblog/wp-content/uploads/2016/08/Screen-Shot-2016-08-03-at-21.52.07.png)[![art](/kavicsblog/wp-content/uploads/2016/08/IMG_9259.jpg)](/kavicsblog/wp-content/uploads/2016/08/IMG_9259.jpg)
 
 
 
 és mégis egy bónusz montázs gyakorlat:
 
-[![garden morning](/wp-content/uploads/2016/08/JSprague-PhotoTemplateLetterSize.png)](/wp-content/uploads/2016/08/JSprague-PhotoTemplateLetterSize.png)
+[![garden morning](/kavicsblog/wp-content/uploads/2016/08/JSprague-PhotoTemplateLetterSize.png)](/kavicsblog/wp-content/uploads/2016/08/JSprague-PhotoTemplateLetterSize.png)

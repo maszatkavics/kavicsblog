@@ -16,7 +16,7 @@ tags:
 ---
 
 [
-](/wp-content/uploads/2013/08/metamag.pdf)
+](/kavicsblog/wp-content/uploads/2013/08/metamag.pdf)
 
 Szárnypróbák...<!-- more -->
 

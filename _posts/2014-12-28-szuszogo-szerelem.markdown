@@ -20,4 +20,4 @@ tags:
 - tündér
 ---
 
-[![Fairydream](/wp-content/uploads/2014/12/image1-e1419806925835.jpg)](https://farm8.staticflickr.com/7465/16132191245_6bc7ca7c71_o.jpg)
+[![Fairydream](/kavicsblog/wp-content/uploads/2014/12/image1-e1419806925835.jpg)](https://farm8.staticflickr.com/7465/16132191245_6bc7ca7c71_o.jpg)

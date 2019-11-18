@@ -19,4 +19,4 @@ tags:
 - tündér
 ---
 
-[![nightlove](/wp-content/uploads/2014/08/nightlove.png)](/wp-content/uploads/2014/08/nightlove.png)
+[![nightlove](/kavicsblog/wp-content/uploads/2014/08/nightlove.png)](/kavicsblog/wp-content/uploads/2014/08/nightlove.png)

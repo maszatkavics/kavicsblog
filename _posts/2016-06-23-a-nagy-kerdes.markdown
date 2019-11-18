@@ -15,4 +15,4 @@ tags:
 - kérdés
 ---
 
-[![?](/wp-content/uploads/2016/06/Screen-Shot-2016-06-23-at-22.55.26.png)](/wp-content/uploads/2016/06/Screen-Shot-2016-06-23-at-22.55.26.png)
+[![?](/kavicsblog/wp-content/uploads/2016/06/Screen-Shot-2016-06-23-at-22.55.26.png)](/kavicsblog/wp-content/uploads/2016/06/Screen-Shot-2016-06-23-at-22.55.26.png)
