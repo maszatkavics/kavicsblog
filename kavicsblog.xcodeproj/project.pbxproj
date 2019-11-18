@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5E7A65B32382AA0500C27A0B /* tactile.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = tactile.md; sourceTree = "<group>"; };
+		5E7A65B42382B17100C27A0B /* favicon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon.ico; sourceTree = "<group>"; };
 		5E909934237EC206006D95BA /* _site */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _site; sourceTree = "<group>"; };
 		5E909935237EC207006D95BA /* Gemfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
 		5E909936237EC207006D95BA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -17,7 +19,6 @@
 		5E90993C237EC393006D95BA /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
 		5E90993D237EC3A7006D95BA /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
 		5E90993E237EC3B4006D95BA /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
-		5E90993F237EC3DD006D95BA /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
 		5E9DB1C22381FCC000AE45D3 /* wp-content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "wp-content"; sourceTree = "<group>"; };
 		5E9DB1C323820EA900AE45D3 /* about.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -27,13 +28,14 @@
 			isa = PBXGroup;
 			children = (
 				5E9DB1C22381FCC000AE45D3 /* wp-content */,
-				5E90993F237EC3DD006D95BA /* _includes */,
 				5E90993A237EC207006D95BA /* _posts */,
 				5E909934237EC206006D95BA /* _site */,
 				5E90993D237EC3A7006D95BA /* _sass */,
 				5E90993E237EC3B4006D95BA /* _layouts */,
 				5E90993C237EC393006D95BA /* assets */,
 				5E9DB1C323820EA900AE45D3 /* about.md */,
+				5E7A65B42382B17100C27A0B /* favicon.ico */,
+				5E7A65B32382AA0500C27A0B /* tactile.md */,
 				5E909938237EC207006D95BA /* index.html */,
 				5E909939237EC207006D95BA /* _config.yml */,
 				5E909937237EC207006D95BA /* Gemfile */,
