@@ -18,4 +18,4 @@ tags:
 - vers
 ---
 
-[![hagylak](http://kavics.me/wp-content/uploads/2015/10/hagylak.png)](http://kavics.me/wp-content/uploads/2015/10/hagylak.png)
+[![hagylak](/wp-content/uploads/2015/10/hagylak.png)](/wp-content/uploads/2015/10/hagylak.png)

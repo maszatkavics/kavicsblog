@@ -20,4 +20,4 @@ tags:
 Upsz, ez beragadt draftba még több mint egy hónapja... szóval kis időutazás lesz, de közben már érkezik az új, és fejemben meg még több :) jeee..
 
 Már nagyon későre jár, de olyan sűrűn gondolok mostanság a blog felé. Persze ez is egy olyan lesz most, hogy millió dolog volna, amiről írni kéne:  sok-sok gondolat kikristályosodóban, Málna is oviba jár, Ambrus 8éves, Borka csemete, Zsófi pedig iskolába jár. De nincs már semmi maradék erő kifejteni. Most nincs, de tudom hogy lesz.
-![](http://kavics.me/wp-content/uploads/2017/10/Photo-on-2017.-10.-20.-at-0.00-2.jpg)
+![](/wp-content/uploads/2017/10/Photo-on-2017.-10.-20.-at-0.00-2.jpg)

@@ -17,4 +17,4 @@ Szerintem én is fogok napfelkelést nézni, mint [Ők](http://waldorf-godollo.h
 
 most viszont, le kell feküdni..egy kicsit meditálni, és ébredni hamar.
 
-[![misi](http://kavics.me/wp-content/uploads/2016/09/misi.jpg)](http://kavics.me/wp-content/uploads/2016/09/misi.jpg)
+[![misi](/wp-content/uploads/2016/09/misi.jpg)](/wp-content/uploads/2016/09/misi.jpg)

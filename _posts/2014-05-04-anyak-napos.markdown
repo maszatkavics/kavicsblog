@@ -39,4 +39,4 @@ s ha szépen érkezel...Oda."
 
 
 
-[![a4](http://kavics.me/wp-content/uploads/2014/05/a4.png)](http://kavics.me/wp-content/uploads/2014/05/a4.png)
+[![a4](/wp-content/uploads/2014/05/a4.png)](/wp-content/uploads/2014/05/a4.png)

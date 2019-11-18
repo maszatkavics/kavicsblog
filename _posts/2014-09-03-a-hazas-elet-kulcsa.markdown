@@ -15,8 +15,8 @@ tags:
 
 Ez a nap más mint a többi, persze a vicces, hogy közben meg ugyanolyan is egyben...
 
-[![kulcs](http://kavics.me/wp-content/uploads/2014/09/kulcs.png)](http://kavics.me/wp-content/uploads/2014/09/kulcs.png)
+[![kulcs](/wp-content/uploads/2014/09/kulcs.png)](/wp-content/uploads/2014/09/kulcs.png)
 
 Egy új fejezet elkezdődik ... Wahe Guru, Halleluja, Yippy-yáé, Hip-hip-hurrá, nagy mosoly, és** Hálás Köszönet Mindenkinek** aki segített, nem is keveset!
 
-[![mickeykösz](http://kavics.me/wp-content/uploads/2014/09/mickeykösz.png)](http://kavics.me/wp-content/uploads/2014/09/mickeykösz.png)
+[![mickeykösz](/wp-content/uploads/2014/09/mickeykösz.png)](/wp-content/uploads/2014/09/mickeykösz.png)

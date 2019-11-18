@@ -14,7 +14,7 @@ tags:
 - utazás
 ---
 
-[![surfing](http://kavics.me/wp-content/uploads/2013/07/4528248_0be70f12935673f5fa92bca3053cf58b_wm.gif)](http://kavics.me/wp-content/uploads/2013/07/4528248_0be70f12935673f5fa92bca3053cf58b_wm.gif)
+[![surfing](/wp-content/uploads/2013/07/4528248_0be70f12935673f5fa92bca3053cf58b_wm.gif)](/wp-content/uploads/2013/07/4528248_0be70f12935673f5fa92bca3053cf58b_wm.gif)
 
 
 

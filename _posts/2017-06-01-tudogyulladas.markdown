@@ -48,4 +48,4 @@ ui.: ez meg tegnap volt, jól esett :)
 
 
 
-[![](http://kavics.me/wp-content/uploads/2017/06/8-768x1024.jpg)](http://kavics.me/wp-content/uploads/2017/06/8.jpg)
+[![](/wp-content/uploads/2017/06/8-768x1024.jpg)](/wp-content/uploads/2017/06/8.jpg)

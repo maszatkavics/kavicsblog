@@ -18,6 +18,6 @@ Valahogy rám talált, pedig teljesen másról szerettem volna körmölni: gyóg
 
 Ehelyett: Dr. Frecska Ede : A lélek indája .. furcsa, de most ez nőtt ki a keszekuszából.
 
-[![llullon_llaki_supai](http://kavics.me/wp-content/uploads/2016/10/llullon_llaki_supai-1024x819.jpg)](http://kavics.me/wp-content/uploads/2016/10/llullon_llaki_supai.jpg)
+[![llullon_llaki_supai](/wp-content/uploads/2016/10/llullon_llaki_supai-1024x819.jpg)](/wp-content/uploads/2016/10/llullon_llaki_supai.jpg)
 
 

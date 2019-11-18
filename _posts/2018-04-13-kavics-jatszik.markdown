@@ -21,4 +21,4 @@ tags:
 
 Most nincsenek szavaim...sokkolóval támadták a moralitást. #választás2018
 
-![](http://kavics.me/wp-content/uploads/2018/04/img_0014-1.jpg)
+![](/wp-content/uploads/2018/04/img_0014-1.jpg)

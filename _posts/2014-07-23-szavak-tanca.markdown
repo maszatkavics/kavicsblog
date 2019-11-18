@@ -22,7 +22,7 @@ tags:
 
 
 
-[![táncoló](http://kavics.me/wp-content/uploads/2014/07/táncoló.png)](http://kavics.me/wp-content/uploads/2014/07/táncoló.png)
+[![táncoló](/wp-content/uploads/2014/07/táncoló.png)](/wp-content/uploads/2014/07/táncoló.png)
 
 
 

@@ -46,7 +46,7 @@ Ami az érdekes, hogy ezek a percek mégis mennyi rengeteg szeretettel, játékk
 
 
 
-[![verona](http://kavics.me/wp-content/uploads/2013/07/verona.jpg)](http://kavics.me/wp-content/uploads/2013/07/verona.jpg)
+[![verona](/wp-content/uploads/2013/07/verona.jpg)](/wp-content/uploads/2013/07/verona.jpg)
 
 
 

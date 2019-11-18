@@ -4,10 +4,14 @@ name: Kavicsblog
 #permalink: /kavicsblog/:title/
 
 plugins: [jekyll-paginate]
-
-paginate: 10
+paginate: 20
 #paginate_path: "/kavicsblog/page:num/"
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 
 theme: jekyll-theme-console
+#style: light
+header_pages:
+  - about.md
+
+footer: '-- @% --'

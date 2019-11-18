@@ -69,7 +69,7 @@ tags:
 
 
 
-[![bolcs2](http://kavics.me/wp-content/uploads/2016/05/bolcs2.jpg)](http://kavics.me/wp-content/uploads/2016/05/bolcs2.jpg)
+[![bolcs2](/wp-content/uploads/2016/05/bolcs2.jpg)](/wp-content/uploads/2016/05/bolcs2.jpg)
 
 
 

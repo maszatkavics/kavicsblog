@@ -14,4 +14,4 @@ tags:
 - szösszenet
 ---
 
-"Napról napra fedezik fel a gyerkőcök a fát, sok sok örömmel, és rengeteg apró csodálkozásokkal. Nagyon érdekes látni, hogy mennyire máshogyan működik bennük a "befogadó" mint bennünk. Köszönjük még egyszer Józsi-angyalnak, hogy befaragott egy szülő-álmot ebbe a kis kockányi mesevilágba."[![ágas](http://kavics.me/wp-content/uploads/2013/12/IMG_2825.jpg)](http://kavics.me/wp-content/uploads/2013/12/IMG_2825.jpg)
+"Napról napra fedezik fel a gyerkőcök a fát, sok sok örömmel, és rengeteg apró csodálkozásokkal. Nagyon érdekes látni, hogy mennyire máshogyan működik bennük a "befogadó" mint bennünk. Köszönjük még egyszer Józsi-angyalnak, hogy befaragott egy szülő-álmot ebbe a kis kockányi mesevilágba."[![ágas](/wp-content/uploads/2013/12/IMG_2825.jpg)](/wp-content/uploads/2013/12/IMG_2825.jpg)

@@ -19,6 +19,7 @@
 		5E90993E237EC3B4006D95BA /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
 		5E90993F237EC3DD006D95BA /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
 		5E9DB1C22381FCC000AE45D3 /* wp-content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "wp-content"; sourceTree = "<group>"; };
+		5E9DB1C323820EA900AE45D3 /* about.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -32,10 +33,11 @@
 				5E90993D237EC3A7006D95BA /* _sass */,
 				5E90993E237EC3B4006D95BA /* _layouts */,
 				5E90993C237EC393006D95BA /* assets */,
+				5E9DB1C323820EA900AE45D3 /* about.md */,
+				5E909938237EC207006D95BA /* index.html */,
 				5E909939237EC207006D95BA /* _config.yml */,
 				5E909937237EC207006D95BA /* Gemfile */,
 				5E909935237EC207006D95BA /* Gemfile.lock */,
-				5E909938237EC207006D95BA /* index.html */,
 				5E909936237EC207006D95BA /* README.md */,
 			);
 			sourceTree = "<group>";

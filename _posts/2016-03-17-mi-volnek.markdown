@@ -18,7 +18,7 @@ tags:
 - vicces
 ---
 
-[![Mi volnék?](http://kavics.me/wp-content/uploads/2016/03/Mi-volnék-683x1024.jpg)](http://kavics.me/wp-content/uploads/2016/03/Mi-volnék.jpg)
+[![Mi volnék?](/wp-content/uploads/2016/03/Mi-volnék-683x1024.jpg)](/wp-content/uploads/2016/03/Mi-volnék.jpg)
 
 ui.: este szoktam halkan a gyerkőcök fülébe mondani, utána már nincs több szó. De néha mégis van:
 

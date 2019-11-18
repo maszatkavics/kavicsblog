@@ -11,4 +11,4 @@ categories:
 - Uncategorized
 ---
 
-[![Screen Shot 2015-10-06 at 22.48.11](http://kavics.me/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-22.48.111.png)](http://kavics.me/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-22.48.111.png)
+[![Screen Shot 2015-10-06 at 22.48.11](/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-22.48.111.png)](/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-22.48.111.png)
