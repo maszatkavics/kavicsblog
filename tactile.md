@@ -2,8 +2,7 @@
 layout: default
 title: Tactile theme
 ---
-The blog is using: [Tactile theme](https://github.com/pages-themes/tactile)
-Hosted on [GitHub](https://github.com/maszatkavics/kavicsblog)
+The blog is using [Tactile theme](https://github.com/pages-themes/tactile)
 * * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
