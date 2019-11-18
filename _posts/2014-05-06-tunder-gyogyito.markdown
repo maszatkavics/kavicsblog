@@ -15,4 +15,4 @@ tags:
 - tündér
 ---
 
-[![magic tulip](/kavicsblog/wp-content/uploads/2014/05/IMG_3417.jpg)](/kavicsblog/wp-content/uploads/2014/05/IMG_3417.jpg)
+[![magic tulip]({{ site.baseurl }}/assets/uploads/2014/05/IMG_3417.jpg)]({{ site.baseurl }}/assets/uploads/2014/05/IMG_3417.jpg)

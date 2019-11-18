@@ -16,4 +16,4 @@ tags:
 - utazás
 ---
 
-![](/kavicsblog/wp-content/uploads/2015/03/IMG_0026.jpg)
+![]({{ site.baseurl }}/assets/uploads/2015/03/IMG_0026.jpg)

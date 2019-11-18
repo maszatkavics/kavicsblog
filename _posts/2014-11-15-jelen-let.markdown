@@ -31,4 +31,4 @@ Esti Málna pelusozás közben ma is és tegnap is, és már előtte is jó pár
 
 
 
-[![meajnax](/kavicsblog/wp-content/uploads/2014/11/meajnax.jpeg)](/kavicsblog/wp-content/uploads/2014/11/meajnax.jpeg)
+[![meajnax]({{ site.baseurl }}/assets/uploads/2014/11/meajnax.jpeg)]({{ site.baseurl }}/assets/uploads/2014/11/meajnax.jpeg)

@@ -22,4 +22,4 @@ Ahogy a gyerekeknek, szerintem a felnőtteknek is vannak fejlődési ugrásai. �
 
 Kimaradt egy teljes 6 hetes jóga, itthon mégis dolgozom folyamatosan a belső harmónia fenntartó rendszeren. Mosolygok belül rengeteget, még ha kívül csak a fáradt szemeim látszanak, akkor is. Szerelmes vagyok jobban mint bármikor, még ha most nem is erről szól itt az élet. Apukája vagyok három csodaszép egészséges gyerkőcnek, akik olyan dolgokat tárnak fel előttem, amit még soha senki azelőtt.
 
-[![Selfie5](/kavicsblog/wp-content/uploads/2014/02/IMG_3038.jpg)](/kavicsblog/wp-content/uploads/2014/02/IMG_3038.jpg)
+[![Selfie5]({{ site.baseurl }}/assets/uploads/2014/02/IMG_3038.jpg)]({{ site.baseurl }}/assets/uploads/2014/02/IMG_3038.jpg)

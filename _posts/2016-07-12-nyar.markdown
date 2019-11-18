@@ -21,4 +21,4 @@ Csodanyári napok, nincs igazán nagyon írhatnékom, mert belesimulok inkább.
 
 A válasz az előző poszt kérdésére:
 
-[![Szentlászló](/kavicsblog/wp-content/uploads/2016/07/Screen-Shot-2016-07-12-at-22.16.33-e1468356550150.png)](/kavicsblog/wp-content/uploads/2016/07/Screen-Shot-2016-07-12-at-22.16.33.png)
+[![Szentlászló]({{ site.baseurl }}/assets/uploads/2016/07/Screen-Shot-2016-07-12-at-22.16.33-e1468356550150.png)]({{ site.baseurl }}/assets/uploads/2016/07/Screen-Shot-2016-07-12-at-22.16.33.png)

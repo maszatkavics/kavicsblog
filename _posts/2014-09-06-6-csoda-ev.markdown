@@ -35,4 +35,4 @@ And all I have to do is think of her
 
 
 
-[![6eve](/kavicsblog/wp-content/uploads/2014/09/6eve-copy.png)](/kavicsblog/wp-content/uploads/2014/09/6eve-copy.png)
+[![6eve]({{ site.baseurl }}/assets/uploads/2014/09/6eve-copy.png)]({{ site.baseurl }}/assets/uploads/2014/09/6eve-copy.png)

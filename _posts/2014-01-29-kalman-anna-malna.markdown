@@ -25,4 +25,4 @@ Most persze inkább dolgoznom kéne, ebben a pár percnyi szusszanásban, de ez 
 Ami viszont nagyon ide tartozik, az a mai HÓesés. Csodaszép és varázslatos a gyerkőcöknek. Nekem most csak rajtuk keresztül varázslat, mert túl sok a többi dimenzió. Viszont megint egy Ambrus mondással zárok, mikor reggel kikukucskáltunk a függöny mögül a havas fákra: "Málna varázsolt nekünk havat, egy igazi tündér!".
 
 
-[![öten](/kavicsblog/wp-content/uploads/2014/01/IMG_2948.jpg)](/kavicsblog/wp-content/uploads/2014/01/IMG_2948.jpg)
+[![öten]({{ site.baseurl }}/assets/uploads/2014/01/IMG_2948.jpg)]({{ site.baseurl }}/assets/uploads/2014/01/IMG_2948.jpg)

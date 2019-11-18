@@ -19,14 +19,14 @@ tags:
 
 Szépséges új borítókép frissülés (majd egyszer csinálok ezekből egy kiállítást :) .. ez már saját kézzel festett, bezuny ... csak persze digitál kézzel.
 
-[![](/kavicsblog/wp-content/uploads/2018/04/springee-1024x467.png)](/kavicsblog/wp-content/uploads/2018/04/springee.png)
+[![]({{ site.baseurl }}/assets/uploads/2018/04/springee-1024x467.png)]({{ site.baseurl }}/assets/uploads/2018/04/springee.png)
 
 Egyébként meg kicsit kevés mostanság a sport (futás/úszás/jóga/bicó), sok a cigi, meg a monitor...valahogy most ilyen..viszont nagyon sokféle spontán-átjön-sokminden-egyszerre érzés is van..de ezt majd később fejtem ki..."ember és világ szilárd egysége" .. és most vannak azok a napok, amik szaladnak vidáman a tavaszi csodában...
 
 Ja igen..és a címadó:
 
 
-[![](/kavicsblog/wp-content/uploads/2018/04/emberséges-768x1024.png)](/kavicsblog/wp-content/uploads/2018/04/emberséges.png)
+[![]({{ site.baseurl }}/assets/uploads/2018/04/emberséges-768x1024.png)]({{ site.baseurl }}/assets/uploads/2018/04/emberséges.png)
 
 
 

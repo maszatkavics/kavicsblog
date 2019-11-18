@@ -17,7 +17,6 @@
 		5E90993A237EC207006D95BA /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
 		5E90993C237EC393006D95BA /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
 		5E90993E237EC3B4006D95BA /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
-		5E9DB1C22381FCC000AE45D3 /* wp-content */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "wp-content"; sourceTree = "<group>"; };
 		5E9DB1C323820EA900AE45D3 /* about.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -25,7 +24,6 @@
 		5E90992D237EC1A7006D95BA = {
 			isa = PBXGroup;
 			children = (
-				5E9DB1C22381FCC000AE45D3 /* wp-content */,
 				5E90993A237EC207006D95BA /* _posts */,
 				5E90993E237EC3B4006D95BA /* _layouts */,
 				5E90993C237EC393006D95BA /* assets */,
