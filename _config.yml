@@ -8,4 +8,4 @@ permalink: /:title/
 plugins: [jekyll-paginate]
 paginate: 20
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'kavicsblog.xcodeproj']

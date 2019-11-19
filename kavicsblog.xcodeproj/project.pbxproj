@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5E1F13BE2383E20A00E33793 /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
 		5E7A65B32382AA0500C27A0B /* tactile.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = tactile.md; sourceTree = "<group>"; };
 		5E7A65B42382B17100C27A0B /* favicon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon.ico; sourceTree = "<group>"; };
 		5E909935237EC207006D95BA /* Gemfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
@@ -24,6 +25,7 @@
 		5E90992D237EC1A7006D95BA = {
 			isa = PBXGroup;
 			children = (
+				5E1F13BE2383E20A00E33793 /* _sass */,
 				5E90993A237EC207006D95BA /* _posts */,
 				5E90993E237EC3B4006D95BA /* _layouts */,
 				5E90993C237EC393006D95BA /* assets */,
