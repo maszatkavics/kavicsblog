@@ -37,7 +37,7 @@ title: Kavics blog
         {%- assign date_format = "%Y-%m-%d" -%}
         [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         {% if post.cover %}
-        <div class="cover-image"><img src="{{ '/assets' | relative_url }}{{ post.cover }}"></div>
+        <!--div class="cover-image"><img src="{{ '/assets' | relative_url }}{{ post.cover }}"></div-->
         {% endif %}
     </li>
     {%- endfor -%}
