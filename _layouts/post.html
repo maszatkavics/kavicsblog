@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+{%- assign date_format = "%Y.%m.%d. - %H:%M" -%}
+<div class="postDate">{{ page.date | date: date_format }}</div>
+
 {% if page.cover %}
 {% if page.nocover != true %}
 <div class="post-cover-image">
@@ -9,8 +13,13 @@ layout: default
 {% endif %}
 {% endif %}
 
-{%- assign date_format = "%Y.%m.%d. - %H:%M" -%}
-<em>[ {{ page.date | date: date_format }} ]</em>
-
-
 {{ content }}
+
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url | relative_url }}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url | relative_url }}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>

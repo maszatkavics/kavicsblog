@@ -33,7 +33,7 @@ title: Kavics blog
 
 <ul>
     {%- for post in paginator.posts -%}
-    <li>
+    <li class="mainList">
         {%- assign date_format = "%Y-%m-%d" -%}
         [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         {% if post.cover %}
