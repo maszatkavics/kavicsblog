@@ -7,6 +7,7 @@ link: http://kavics.me/indulas-a-csendbe/
 slug: indulas-a-csendbe
 title: Indulás a csendbe
 wordpress_id: 1381
+cover: /uploads/2018/02/elvonul.png
 categories:
 - blog
 tags:

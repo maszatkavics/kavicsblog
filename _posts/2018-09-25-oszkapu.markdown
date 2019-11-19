@@ -7,15 +7,18 @@ link: http://kavics.me/oszkapu/
 slug: oszkapu
 title: Őszkapu
 wordpress_id: 1429
+cover: /uploads/2018/09/img_0053.jpg
+nocover: true
 categories:
 - blog
+- art
 tags:
 - art
 - esti
 - flow
 - képes
 - lélek
-- ősz
+- ősz 
 ---
 
 ![Őszkapu]({{ site.baseurl }}/assets/uploads/2018/09/img_0053.jpg)[video src="{{ site.baseurl }}/assets/uploads/2018/09/img_0054.m4v" ]

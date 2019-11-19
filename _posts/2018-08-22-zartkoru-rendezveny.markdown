@@ -7,6 +7,7 @@ link: http://kavics.me/zartkoru-rendezveny/
 slug: zartkoru-rendezveny
 title: Zártkörű rendezvény
 wordpress_id: 1420
+cover: /uploads/2018/08/nyihahah.jpg
 categories:
 - blog
 tags:

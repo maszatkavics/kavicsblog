@@ -7,8 +7,11 @@ link: http://kavics.me/monitor-overdose-future/
 slug: monitor-overdose-future
 title: monitor overdose future?
 wordpress_id: 1405
+cover: /uploads/2018/04/springee.png
+nocover: true
 categories:
 - blog
+- art
 tags:
 - art
 - esti

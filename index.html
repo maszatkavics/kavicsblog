@@ -5,37 +5,40 @@ title: Kavics blog
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
-  {% if paginator.previous_page %}
+    {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    <span>&laquo; Prev</span>
     {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
+    
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <em>{{ page }}</em>
+    {% elsif page == 1 %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% endfor %}
+    
+    {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% else %}
+    {% else %}
     <span>Next &raquo;</span>
-  {% endif %}
+    {% endif %}
 </div>
 {% endif %}
 
 <br/>
 
 <ul>
-   {%- for post in paginator.posts -%}
-   <li>
-     {%- assign date_format = "%Y-%m-%d" -%}
-     [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-   </li>
-   {%- endfor -%}
+    {%- for post in paginator.posts -%}
+    <li>
+        {%- assign date_format = "%Y-%m-%d" -%}
+        [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {% if post.cover %}
+        <div class="cover-image"><img src="{{ '/assets' | relative_url }}{{ post.cover }}"></div>
+        {% endif %}
+    </li>
+    {%- endfor -%}
 </ul>

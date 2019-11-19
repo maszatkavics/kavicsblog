@@ -6,6 +6,7 @@ layout: post
 slug: oszhang
 title: Ősz-hang-ulat
 wordpress_id: 1430
+cover: /postimg/autumn-music.jpg
 categories:
 - blog
 tags:

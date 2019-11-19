@@ -7,8 +7,11 @@ link: http://kavics.me/kavics-jatszik/
 slug: kavics-jatszik
 title: Kavics inkàbb játszik ma még kicsit
 wordpress_id: 1395
+cover: /uploads/2018/04/img_0014-1.jpg
+nocover: true
 categories:
 - blog
+- art
 tags:
 - art
 - bajvanbaj

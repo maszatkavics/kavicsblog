@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% if page.nocover != true %}
+<div class="post-cover-image">
+    <img src="{{ '/assets' | relative_url }}{{ page.cover }}">
+</div>
+{% endif %}
+
 {%- assign date_format = "%Y.%m.%d. - %H:%M" -%}
 <em>[ {{ page.date | date: date_format }} ]</em>
 
