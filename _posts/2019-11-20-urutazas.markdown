@@ -1,0 +1,22 @@
+---
+author: kalmanp
+comments: true
+date: 2019-11-20 08:54:52+00:00
+layout: post
+slug: urutazas
+title: Űr utazás
+wordpress_id: 1431
+cover: /postimg/spacelotus.png
+categories:
+- blog
+tags:
+- deep
+- lotus
+- flow
+- newblog
+- space
+---
+## Ülök
+Egy *fekete lyuk* szélén ülök. Nincs más dolgom, mint a **lélegzeteimet számlálni**. Esetleg érdemes lenne megtanulnom *vakon gépeln*i, hogy egyszerűbben is kijuthassanak a **gondolataim**, a fekete lyuk másik oldalán. 
+## Csendben
+Számolom a lélegzeteimet, avagy *zazen*. Miután ez sikerül, már *elengedthető* a számolás is. Ilyenkor következik a *tér és idő nélküli* valóság. Erről **mesélnek nekünk a bölcsek**.
