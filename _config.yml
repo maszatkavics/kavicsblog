@@ -8,4 +8,11 @@ permalink: /:title/
 plugins: [jekyll-paginate]
 paginate: 20
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'kavicsblog.xcodeproj']
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - kavicsblog.xcodeproj
