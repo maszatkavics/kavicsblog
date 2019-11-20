@@ -5,7 +5,7 @@ date: 2004-10-31 23:30:32+00:00
 layout: post
 link: http://kavics.me/284/
 slug: '284'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 284
 categories:
 - Uncategorized

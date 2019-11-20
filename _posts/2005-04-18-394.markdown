@@ -5,7 +5,7 @@ date: 2005-04-18 22:48:39+00:00
 layout: post
 link: http://kavics.me/394/
 slug: '394'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 394
 categories:
 - Uncategorized

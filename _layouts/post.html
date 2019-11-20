@@ -14,8 +14,9 @@ layout: default
 {% endif %}
 
 {{ content }}
-
+{% if page.tags %}
 <div class="postDate">tags: {{ page.tags | array_to_sentence_string }}</div>
+{% endif %}
 <hr/>
 <div class="PageNavigation">
   {% if page.previous.url %}

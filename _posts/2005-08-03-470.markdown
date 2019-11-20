@@ -5,7 +5,7 @@ date: 2005-08-03 20:53:30+00:00
 layout: post
 link: http://kavics.me/470/
 slug: '470'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 470
 categories:
 - Uncategorized

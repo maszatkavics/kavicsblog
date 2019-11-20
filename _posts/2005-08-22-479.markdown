@@ -5,7 +5,7 @@ date: 2005-08-22 22:34:29+00:00
 layout: post
 link: http://kavics.me/479/
 slug: '479'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 479
 categories:
 - Uncategorized

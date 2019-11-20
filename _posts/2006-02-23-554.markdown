@@ -5,7 +5,7 @@ date: 2006-02-23 14:41:39+00:00
 layout: post
 link: http://kavics.me/554/
 slug: '554'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 554
 categories:
 - Uncategorized

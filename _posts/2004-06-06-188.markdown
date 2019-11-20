@@ -5,7 +5,7 @@ date: 2004-06-06 23:23:33+00:00
 layout: post
 link: http://kavics.me/188/
 slug: '188'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 188
 categories:
 - Uncategorized

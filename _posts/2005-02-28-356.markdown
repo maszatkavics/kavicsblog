@@ -5,7 +5,7 @@ date: 2005-02-28 14:01:01+00:00
 layout: post
 link: http://kavics.me/356/
 slug: '356'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 356
 categories:
 - Uncategorized

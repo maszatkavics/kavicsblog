@@ -5,7 +5,7 @@ date: 2005-09-27 21:29:28+00:00
 layout: post
 link: http://kavics.me/498/
 slug: '498'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 498
 categories:
 - Uncategorized

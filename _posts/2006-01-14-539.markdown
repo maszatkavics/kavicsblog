@@ -5,7 +5,7 @@ date: 2006-01-14 23:00:35+00:00
 layout: post
 link: http://kavics.me/539/
 slug: '539'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 539
 categories:
 - Uncategorized

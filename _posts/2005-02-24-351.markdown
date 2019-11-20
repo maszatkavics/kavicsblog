@@ -5,7 +5,7 @@ date: 2005-02-24 23:58:01+00:00
 layout: post
 link: http://kavics.me/351/
 slug: '351'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 351
 categories:
 - Uncategorized

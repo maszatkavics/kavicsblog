@@ -5,7 +5,7 @@ date: 2005-01-18 03:04:40+00:00
 layout: post
 link: http://kavics.me/334/
 slug: '334'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 334
 categories:
 - Uncategorized

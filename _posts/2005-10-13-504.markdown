@@ -5,7 +5,7 @@ date: 2005-10-13 09:13:18+00:00
 layout: post
 link: http://kavics.me/504/
 slug: '504'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 504
 categories:
 - Uncategorized

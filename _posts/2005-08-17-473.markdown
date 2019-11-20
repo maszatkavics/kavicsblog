@@ -5,7 +5,7 @@ date: 2005-08-17 12:56:54+00:00
 layout: post
 link: http://kavics.me/473/
 slug: '473'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 473
 categories:
 - Uncategorized

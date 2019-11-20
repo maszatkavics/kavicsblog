@@ -5,7 +5,7 @@ date: 2005-12-15 20:10:06+00:00
 layout: post
 link: http://kavics.me/529/
 slug: '529'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 529
 categories:
 - Uncategorized

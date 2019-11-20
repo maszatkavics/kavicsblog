@@ -5,7 +5,7 @@ date: 2004-12-03 00:09:30+00:00
 layout: post
 link: http://kavics.me/308/
 slug: '308'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 308
 categories:
 - Uncategorized

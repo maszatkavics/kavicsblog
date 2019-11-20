@@ -5,7 +5,7 @@ date: 2004-01-11 00:58:36+00:00
 layout: post
 link: http://kavics.me/94/
 slug: '94'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 94
 categories:
 - Uncategorized

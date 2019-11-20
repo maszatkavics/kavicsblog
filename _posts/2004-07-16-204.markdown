@@ -5,7 +5,7 @@ date: 2004-07-16 21:46:10+00:00
 layout: post
 link: http://kavics.me/204/
 slug: '204'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 204
 categories:
 - Uncategorized

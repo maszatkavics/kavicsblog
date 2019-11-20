@@ -5,7 +5,7 @@ date: 2004-08-28 00:09:28+00:00
 layout: post
 link: http://kavics.me/228/
 slug: '228'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 228
 categories:
 - Uncategorized

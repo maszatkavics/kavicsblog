@@ -5,7 +5,7 @@ date: 2003-12-06 02:32:20+00:00
 layout: post
 link: http://kavics.me/87/
 slug: '87'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 87
 categories:
 - Uncategorized

@@ -5,7 +5,7 @@ date: 2004-12-27 23:50:15+00:00
 layout: post
 link: http://kavics.me/323/
 slug: '323'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 323
 categories:
 - Uncategorized

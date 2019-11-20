@@ -5,7 +5,7 @@ date: 2004-11-08 13:06:00+00:00
 layout: post
 link: http://kavics.me/291/
 slug: '291'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 291
 categories:
 - Uncategorized

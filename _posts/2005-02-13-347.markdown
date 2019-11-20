@@ -5,7 +5,7 @@ date: 2005-02-13 16:22:44+00:00
 layout: post
 link: http://kavics.me/347/
 slug: '347'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 347
 categories:
 - Uncategorized

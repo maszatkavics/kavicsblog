@@ -5,7 +5,7 @@ date: 2004-12-20 06:39:55+00:00
 layout: post
 link: http://kavics.me/318/
 slug: '318'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 318
 categories:
 - Uncategorized

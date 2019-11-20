@@ -5,7 +5,7 @@ date: 2005-09-12 16:14:52+00:00
 layout: post
 link: http://kavics.me/490/
 slug: '490'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 490
 categories:
 - Uncategorized

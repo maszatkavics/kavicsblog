@@ -5,7 +5,7 @@ date: 2004-12-24 02:37:20+00:00
 layout: post
 link: http://kavics.me/320/
 slug: '320'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 320
 categories:
 - Uncategorized

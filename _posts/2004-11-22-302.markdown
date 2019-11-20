@@ -5,7 +5,7 @@ date: 2004-11-22 22:49:46+00:00
 layout: post
 link: http://kavics.me/302/
 slug: '302'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 302
 categories:
 - Uncategorized

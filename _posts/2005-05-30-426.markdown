@@ -5,7 +5,7 @@ date: 2005-05-30 06:07:24+00:00
 layout: post
 link: http://kavics.me/426/
 slug: '426'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 426
 categories:
 - Uncategorized

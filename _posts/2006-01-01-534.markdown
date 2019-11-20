@@ -5,7 +5,7 @@ date: 2006-01-01 18:19:50+00:00
 layout: post
 link: http://kavics.me/534/
 slug: '534'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 534
 categories:
 - Uncategorized

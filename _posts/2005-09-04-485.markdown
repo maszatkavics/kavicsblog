@@ -5,7 +5,7 @@ date: 2005-09-04 22:10:38+00:00
 layout: post
 link: http://kavics.me/485/
 slug: '485'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 485
 categories:
 - Uncategorized

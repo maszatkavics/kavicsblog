@@ -5,7 +5,7 @@ date: 2004-11-24 00:49:18+00:00
 layout: post
 link: http://kavics.me/303/
 slug: '303'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 303
 categories:
 - Uncategorized

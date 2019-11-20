@@ -5,7 +5,7 @@ date: 2005-04-26 22:52:14+00:00
 layout: post
 link: http://kavics.me/400/
 slug: '400'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 400
 categories:
 - Uncategorized

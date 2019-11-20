@@ -5,7 +5,7 @@ date: 2004-01-06 15:46:32+00:00
 layout: post
 link: http://kavics.me/90/
 slug: '90'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 90
 categories:
 - Uncategorized

@@ -5,7 +5,7 @@ date: 2004-09-01 23:25:47+00:00
 layout: post
 link: http://kavics.me/232/
 slug: '232'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 232
 categories:
 - Uncategorized

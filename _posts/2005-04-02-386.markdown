@@ -5,7 +5,7 @@ date: 2005-04-02 23:46:03+00:00
 layout: post
 link: http://kavics.me/386/
 slug: '386'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 386
 categories:
 - Uncategorized

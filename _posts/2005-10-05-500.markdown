@@ -5,7 +5,7 @@ date: 2005-10-05 23:14:37+00:00
 layout: post
 link: http://kavics.me/500/
 slug: '500'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 500
 categories:
 - Uncategorized

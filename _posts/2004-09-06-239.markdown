@@ -5,7 +5,7 @@ date: 2004-09-06 07:50:34+00:00
 layout: post
 link: http://kavics.me/239/
 slug: '239'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 239
 categories:
 - Uncategorized

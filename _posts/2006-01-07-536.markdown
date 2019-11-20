@@ -5,7 +5,7 @@ date: 2006-01-07 12:33:00+00:00
 layout: post
 link: http://kavics.me/536/
 slug: '536'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 536
 categories:
 - Uncategorized

@@ -5,7 +5,7 @@ date: 2005-03-31 11:12:21+00:00
 layout: post
 link: http://kavics.me/384/
 slug: '384'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 384
 categories:
 - Uncategorized

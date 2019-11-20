@@ -5,7 +5,7 @@ date: 2004-09-09 00:35:56+00:00
 layout: post
 link: http://kavics.me/247/
 slug: '247'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 247
 categories:
 - Uncategorized

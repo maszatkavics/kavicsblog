@@ -5,7 +5,7 @@ date: 2004-03-13 12:56:55+00:00
 layout: post
 link: http://kavics.me/114/
 slug: '114'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 114
 categories:
 - Uncategorized

@@ -5,7 +5,7 @@ date: 2004-12-13 21:29:27+00:00
 layout: post
 link: http://kavics.me/313/
 slug: '313'
-title: No Content Found
+title: Untitled Post
 wordpress_id: 313
 categories:
 - Uncategorized
