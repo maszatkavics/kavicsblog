@@ -5,8 +5,22 @@ theme: jekyll-theme-tactile
 
 permalink: /:title/
 
-plugins: [jekyll-paginate]
+
+plugins:
+- jekyll-paginate
+- jekyll-archives
+
 paginate: 20
+
+jekyll-archives:
+  enabled: all
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Exclude these files from your production _site
 exclude:
@@ -16,3 +30,4 @@ exclude:
   - README.md
   - CNAME
   - kavicsblog.xcodeproj
+
