@@ -1,6 +1,7 @@
 ## Kavics blog
 Alakulós vizuál-virtuál szösszenet gyűjtemény, avagy a “per pillanat”-tól az “Ek Ong Kar”-ig.
 
+## Cheetsheet
 ### Hints for Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,5 +23,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### GitHub Pages: Dependency versions 
+https://pages.github.com/versions/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Architecture
+### Post structure
+- Type: blog/art/other 
+- State: draft/public/hidden
+- Processed: 0/1
+- Color: red/orange/yellow/green/blue/purple/white
+- Rating: 1/2/3/4/5
