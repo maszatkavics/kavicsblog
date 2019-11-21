@@ -23,15 +23,16 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-### GitHub Pages: Dependency versions 
+### GitHub Pages: Dependency versions
 https://pages.github.com/versions/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Architecture
 ### Post structure
-- Type: blog/art/other 
-- State: draft/public/hidden
-- Processed: 0/1
+- layout: post/art/other
+- state: draft/public/hidden
+- Processed: true/false
 - Color: red/orange/yellow/green/blue/purple/white
 - Rating: 1/2/3/4/5
+- nocover: true/false

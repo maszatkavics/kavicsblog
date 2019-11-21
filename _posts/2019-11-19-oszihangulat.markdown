@@ -5,10 +5,10 @@ date: 2019-11-19 09:16:52+00:00
 layout: post
 slug: oszhang
 title: Ősz-hang-ulat
-wordpress_id: 1430
 cover: /postimg/autumn-music.jpg
-categories:
-- blog
+processed: true
+color: green
+rating: 3
 tags:
 - csakúgy
 - esti
