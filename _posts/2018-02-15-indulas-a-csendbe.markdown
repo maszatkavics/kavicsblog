@@ -8,13 +8,14 @@ slug: indulas-a-csendbe
 title: Indulás a csendbe
 wordpress_id: 1381
 cover: /uploads/2018/02/elvonul.png
-categories:
-- blog
 tags:
 - csend
 - elvonulás
 - öröm
 - utazás
+color: white
+rating: 4
+processed: true
 ---
 
 Holnap estétől mouna 3 napig, azaz teljes csend, elvonulva. Pont olyasmi érzés van bennem, mint egy teljesen ismeretlen helyre való utazás előtt. Nagyon szeretem ezt az érzést.

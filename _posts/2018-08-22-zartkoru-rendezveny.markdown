@@ -8,12 +8,13 @@ slug: zartkoru-rendezveny
 title: Zártkörű rendezvény
 wordpress_id: 1420
 cover: /uploads/2018/08/nyihahah.jpg
-categories:
-- blog
 tags:
 - esti
 - privacy
 - szösszenet
+color: red
+rating: 2
+processed: true
 ---
 
 Valahogy azt érzem hogy kezd kifordulni ez a nagy digitális katyvasz. Már motoszkál egy ideje a fejemben, hogy bár szeretném megtartani ezt az online naplót, de mégsem kéne ezt tovább így teljesen nyitva benne hagyni a Nagy Hálóban. Teljesen bezárni sem szeretném, így hát csak egy jelképes lakatot teszek rá (Username: vendeg, Jelszó: kavicsengedjbe).

@@ -2,6 +2,15 @@
 layout: default
 title: Kavics blog
 ---
+<ul>
+    {%- for post in paginator.posts -%}
+    <li class="mainList">
+        {% if post.processed %}&nbsp;&nbsp;{% else %}*&nbsp;{% endif %}
+        {%- assign date_format = "%Y-%m-%d" -%}
+        [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+</ul>
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
@@ -10,7 +19,7 @@ title: Kavics blog
     {% else %}
     <span>&laquo; Prev</span>
     {% endif %}
-    
+
     {% for page in (1..paginator.total_pages) %}
     |
     {% if page == paginator.page %}
@@ -21,7 +30,7 @@ title: Kavics blog
     <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
     {% endfor %}
-    
+
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">| Next &raquo;</a>
     {% else %}
@@ -29,17 +38,3 @@ title: Kavics blog
     {% endif %}
 </div>
 {% endif %}
-
-<br/>
-
-<ul>
-    {%- for post in paginator.posts -%}
-    <li class="mainList">
-        {%- assign date_format = "%Y-%m-%d" -%}
-        [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        {% if post.cover %}
-        <!--div class="cover-image"><img src="{{ '/assets' | relative_url }}{{ post.cover }}"></div-->
-        {% endif %}
-    </li>
-    {%- endfor -%}
-</ul>

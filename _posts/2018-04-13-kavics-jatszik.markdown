@@ -9,9 +9,6 @@ title: Kavics inkàbb játszik ma még kicsit
 wordpress_id: 1395
 cover: /uploads/2018/04/img_0014-1.jpg
 nocover: true
-categories:
-- blog
-- art
 tags:
 - art
 - bajvanbaj
@@ -20,6 +17,11 @@ tags:
 - esti
 - lélek
 - penna
+hidecover: true
+type: art
+color: yellow
+rating: 3
+processed: true
 ---
 
 Most nincsenek szavaim...sokkolóval támadták a moralitást. #választás2018

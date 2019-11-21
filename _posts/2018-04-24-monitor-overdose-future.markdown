@@ -8,16 +8,17 @@ slug: monitor-overdose-future
 title: monitor overdose future?
 wordpress_id: 1405
 cover: /uploads/2018/04/springee.png
-nocover: true
-categories:
-- blog
-- art
 tags:
 - art
 - esti
 - monitor
 - petíció
 - vegyes
+hidecover: true
+type: art
+color: purple
+rating: 3
+processed: true
 ---
 
 Szépséges új borítókép frissülés (majd egyszer csinálok ezekből egy kiállítást :) .. ez már saját kézzel festett, bezuny ... csak persze digitál kézzel.
