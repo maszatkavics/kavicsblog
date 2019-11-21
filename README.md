@@ -30,9 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Architecture
 ### Post structure
-- layout: post/art/other
-- state: draft/public/hidden
-- Processed: true/false
-- Color: red/orange/yellow/green/blue/purple/white
-- Rating: 1/2/3/4/5
-- nocover: true/false
+- cover: imageurl
+- [hidecover: true/false]
+- state: [public]/draft/hidden
+- color: red/orange/yellow/green/blue/purple/white
+- rating: 1/2/3/4/5
+- [type: [post]/art/other]
+- processed: true

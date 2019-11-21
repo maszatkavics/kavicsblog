@@ -5,10 +5,6 @@ date: 2019-11-19 09:16:52+00:00
 layout: post
 slug: oszhang
 title: Ősz-hang-ulat
-cover: /postimg/autumn-music.jpg
-processed: true
-color: green
-rating: 3
 tags:
 - csakúgy
 - esti
@@ -16,6 +12,10 @@ tags:
 - newblog
 - lélek
 - ősz
+cover: /postimg/autumn-music.jpg
+color: green
+rating: 3
+processed: true
 ---
 ## Előszó
 

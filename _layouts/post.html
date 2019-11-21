@@ -1,23 +1,27 @@
 ---
 layout: default
 ---
+{% if page.cover and page.hidecover != true %}
+<img src="{{ '/assets' | relative_url }}{{ page.cover }}">
+{% endif %}
 
 {%- assign date_format = "%Y.%m.%d. - %H:%M" -%}
-<div class="postDate">{{ page.date | date: date_format }}</div>
-
-{% if page.cover %}
-{% if page.nocover != true %}
-<div class="post-cover-image">
-    <img src="{{ '/assets' | relative_url }}{{ page.cover }}">
-</div>
-{% endif %}
-{% endif %}
+<h5>{{ page.date | date: date_format }}</h5>
 
 {{ content }}
+
+<h6>Meta:</h6>
 {% if page.tags %}
-<div class="postDate">tags: {{ page.tags | array_to_sentence_string }}</div>
+<em>tags:</em> {{ page.tags | array_to_sentence_string }}
 {% endif %}
-<hr/>
+{% if page.color %}
+| <em>color:</em> {{ page.color }}
+{% endif %}
+{% if page.rating %}
+| <em>rating:</em> {{ page.rating }} star
+{% endif %}
+
+
 <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url | relative_url }}">&laquo; {{page.previous.title}}</a>

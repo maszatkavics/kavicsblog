@@ -3,22 +3,23 @@ author: kalmanp
 comments: true
 date: 2018-09-25 21:13:52+00:00
 layout: post
-link: http://kavics.me/oszkapu/
 slug: oszkapu
 title: Őszkapu
 wordpress_id: 1429
-cover: /uploads/2018/09/img_0053.jpg
-nocover: true
-categories:
-- blog
-- art
 tags:
 - art
 - esti
 - flow
 - képes
 - lélek
-- ősz 
+- ősz
+cover: /uploads/2018/09/img_0053.jpg
+hidecover: true
+type: art
+color: orange
+rating: 4
+processed: true
 ---
+![Őszkapu]({{ site.baseurl }}/assets/uploads/2018/09/img_0053.jpg)
 
-![Őszkapu]({{ site.baseurl }}/assets/uploads/2018/09/img_0053.jpg)[video src="{{ site.baseurl }}/assets/uploads/2018/09/img_0054.m4v" ]
+Így készült [video]({{ site.baseurl }}/assets/uploads/2018/09/img_0054.m4v)
