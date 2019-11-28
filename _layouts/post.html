@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
+<center>
+{%- assign date_format = "%Y.%m.%d. %H:%M" -%}
+<h2>{{ page.date | date: date_format }}</h2>
+
 {% if page.cover and page.hidecover != true %}
 <img src="{{ '/assets' | relative_url }}{{ page.cover }}">
 {% endif %}
+</center>
 
-{%- assign date_format = "%Y.%m.%d. - %H:%M" -%}
-<h5>{{ page.date | date: date_format }}</h5>
+<br/>
 
 {{ content }}
 
