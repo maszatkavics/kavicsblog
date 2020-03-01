@@ -13,7 +13,7 @@ Egész nap csak víz (>3 liter), fontos volt egy "lórugással" indítani, mert 
 ![víz](/assets/images/bojtnaplo/water.jpg)
 
 ## 2.nap - CS
-Délutánig sok víz (>3 liter), gyümölcs szelet. Vacsira kicseri (mungóbab, sima rízs, vaj (nem ghi), semmi fűszer). Munka rendben ment, bár koncentrálás kicsit nehezebb volt az irodában kajálás nélkül. Még mindig kicsit ingerlékenyebb. Fejfájás elmúlt a nap során. **Tudatmódosult állapot**: kicsit betépés-szerűen könnyen elmélyedek gondolatokban, jó érzés. Séta nagyon jól esik. Este tea jól esett + Öccsökkel megbeszélés sem volt nehéz.
+Délutánig sok víz (>3 liter), gyümölcs szelet. Vacsira **kicseri** (mungóbab, sima rízs, vaj (nem ghi), semmi fűszer). Munka rendben ment, bár koncentrálás kicsit nehezebb volt az irodában kajálás nélkül. Még mindig kicsit ingerlékenyebb. Fejfájás elmúlt a nap során. **Tudatmódosult állapot**: kicsit betépés-szerűen könnyen elmélyedek gondolatokban, jó érzés. Séta nagyon jól esik. Este tea jól esett + Öccsökkel megbeszélés sem volt nehéz.
 Körvonalazódik a **diéta-terv**: egyszerű ízek: nincs fűszer, nincs édesség, nincs péksüti, nincs kenyér(csak pászka), sok zöldség, némi gyümölcs. Főtt kaja csak kicseri az elején, aztán majd alakul.
 
 ![Kicseri](/assets/images/bojtnaplo/kitchari.jpg)
