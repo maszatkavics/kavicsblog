@@ -5,7 +5,7 @@ title: Böjt napló
 # 2020
 ## Célok
 Nikotin-koffein böjt, belső változások megfigyelése, akarat erősítése (46 napig tartani),
-vízivás tudatosabb, odafigyelősebb-tudatosabb-lelassultabb evés. Dinamikusan alakulhat, figyelve a szervezetemet.
+vízivás tudatosabb, odafigyelősebb-tudatosabb-lelassultabb evés (diétával, tutira húsmentesen). Dinamikusan alakulhat, figyelve a szervezetemet.
 
 ## 1.nap (02.26.) - Húshagyó szerda
 Egész nap csak víz (>3 liter), fontos volt egy "lórugással" indítani, mert a nikotin-koffein megérdemli! **Fejfájás**. Kellett egy kis szőlőcukor. Nem állt meg az élet, másfél óra korizás Ambrusékkal. Estére  ingerlékeny lettem, de alapvetően rendben volt a nap.
