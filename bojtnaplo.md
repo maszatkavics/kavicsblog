@@ -2,6 +2,10 @@
 layout: page
 title: Böjt napló
 ---
+# 2021
+## Célok
+Előző évhez hasonlatosan: nikotin-koffein mentesítés. 2020-ban megtörtem covid miatt, remélem idén sikerül tovább tartani vagy teljesen végigcsinálni a böjtöt.
+
 # 2020
 ## Célok
 Nikotin-koffein böjt, belső változások megfigyelése, akarat erősítése (46 napig tartani),
@@ -36,5 +40,8 @@ Teljesen jó közérzet, de enyhe fejfájás néha, kicsit belsőbb alaphangulat
 
 ![Ibolya](/assets/images/bojtnaplo/ibolya.jpeg)
 
-## 6.nap - Hétfő (1.teljes hét)
+## 6.nap - Hétfő (1.hét)
 Tavaszi szél, áradó víz, forrás-víz...
+
+## COVID - Böjttörés
+Bekaranténozódtunk, és esélytelen volt tartanom a böjtöt.
