@@ -4,7 +4,7 @@ comments: true
 date: 2021-02-06 22:34:52+01:00
 layout: post
 slug: dereg
-title: DE R:G 2020
+title: 2020 / DE R:G / 2021
 tags:
 - update
 cover: /postimg/halak.jpg
@@ -18,7 +18,10 @@ Por lepte napló. Pedig **volt világ-történet bőven**.
 Érdekes, hogy pont 2020 lehet majd ami a törikönyvekbe bekerül, mint Covid-Karantén-LockDown év, én meg egy naplóbejegyzésnyire sem méltattam. Csetekbe, itt ott írtam ilyesmiket:
 > ja...amugy tényleg van egy ilyen letisztulós feeling nekem, ha kicsit magasabbról nézem ezt az időszakot... könnyebb így mélyebbre is menni .. persze az mindig izgalmas, hogy ott mélyebben mi vár rád... nekem ma lett olyan feelingem, hogy az idő/emlékek amit éltem/megéltem jobban összesűrűsödnek a pillanatban.... régen ez volt az alap-hangulatom..de mostanában kicsit messzebb kerültem tőle.. és most jön vissza csak már egy "tudatosabb" (bár nem szeretem ezt a szót) szinten
 
-## Tapasztalás
+# DE R:G = DE RÉG *
+*US billentyű kiosztással  
+Érdekes megélés, hogy mennyire el lehet szokni a napló írástól. Igazándiból egyáltalán a magyarul hosszabb mondatok megírásától. Hasonló mint a fejben számolás. Tudod, hogy simán tudod, és tudtad, de olyan távolnak tűnik, és bizsereg tőle valami furcsa kis neuronból kifacsaródó koktél alapanyag.  
+
 
 # 2021
-Amiatt kanyarodtam most erre a digitális kis szegletre, hogy leporoljam a [Böjtnaplót](bojtnaplo), mert idén is akarok nagyböjt-kihívást. Úgyhogy folyt.kövi
+Amiatt kanyarodtam most erre a digitális kis szegletre, hogy leporoljam a [Böjtnaplót](/kavicsblog/bojtnaplo), mert idén is akarok nagyböjt-kihívást. Úgyhogy folyt.kövi.
