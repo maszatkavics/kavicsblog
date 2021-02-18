@@ -3,8 +3,18 @@ layout: page
 title: Böjt napló
 ---
 # 2021
-## Célok
-Előző évhez hasonlatosan: nikotin-koffein mentesítés. 2020-ban megtörtem covid miatt, remélem idén sikerül tovább tartani vagy teljesen végigcsinálni a böjtöt.
+
+## 1.nap (02.17.) - Nikotinhagyó szerda :)
+_Test:_ Súly: 75.7, ezt majd azért méricskélem. Csak víz: 3+ liter. **nincs fejfájás**, kicsit belemélyülősebb kezdete. Dolgozásban persze pont ilyenkor egy kis bosszantós "bug", de megoldottam, szépen ahogy kell. Délután gyerekek elmentek nagyiékhoz, szóval nagy-hosszú-csendes-forró-fürdő után lefekvés, nagy alvás. Álmomra nem emlékszem.
+
+_Lélek:_ A vízet éli most meg.
+
+_Szellem:_ Hmm...
+
+![víz2](/assets/images/bojtnaplo/water2.jpg)
+
+## 2021 Célok
+Előző évhez hasonlatosan: nikotin-koffein mentesítés. 2020-ban megtörtem covid miatt, remélem idén sikerül tovább tartani vagy teljesen végigcsinálni a böjtöt. Szeretnék a böjt alatt sokat a JELENRE fókuszálni, letenni minél több kusza gondolatot (nem a perpillanat érzésre gondolok, hanem annak valami 2.0 verziójára). Ehhez kapcsolódva: testtartás, légzés, mozgás. Kicsit azt érzem információ fogyasztást is csökkentenem kéne, kevesebb digitál.
 
 # 2020
 ## Célok
