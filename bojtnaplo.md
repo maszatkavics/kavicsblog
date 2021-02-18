@@ -4,7 +4,7 @@ title: Böjt napló
 ---
 # 2021
 ## 2.nap - CS
-_Test:_ Nincs semmi fejfájás, ma is 3+l víz, viszont nem ettem ma sem semmit. Tavaly ilyenkor már kicseriztem, meg szőlőcukor, meg gyümölcs, de idén azt érzem, hogy jól esik és könnyebben megy a csak-vízböjt kezdés. Sok séta viszont volt, igazából ez a legjobb. Azzal, hogy munka van és itthon is zajlanak a dolgok, a belemélyülés nem megy (megnéztem erről Shivantar videóját, és ő is ezt mondja). A cigi hiányzott még ma, ilyen berögzült szituációkban, de a kávé nem. Irodai testtartásomon javítani kéne, pedig már figyelek rá alapból, de a fej még túl elől, így a mellkas görnyed.
+_Test:_ Nincs semmi fejfájás, ma is 3+l víz, viszont nem ettem ma sem semmit. Tavaly ilyenkor már kicseriztem, meg szőlőcukor, meg gyümölcs, de idén azt érzem, hogy jól esik és könnyebben megy a csak-vízböjt kezdés. Sok séta viszont volt, igazából ez a legjobb. Azzal, hogy munka van és itthon is zajlanak a dolgok, a belemélyülés nem olyan mint egy elvonulásnál (megnéztem erről [Shivantar videóját](https://www.youtube.com/watch?v=MFt2K98IaQw), és ő is ezt mondja). A cigi hiányzott még ma, ilyen berögzült szituációkban, de a kávé nem. Irodai testtartásomon javítani kéne, pedig már figyelek rá alapból, de a fej még túl elől, így a mellkas görnyed.
 ![coder](/assets/images/bojtnaplo/coder.png)
 
 _Lélek:_ Észrevesz egyre több részletet: légzés, hangok, szagok és emberek viselkedése. Kívülebb érzi magát, kicsit talán magányosan is. Csendet szeretne, de mégsem zavarja a körül-zajló élet sem nagyon. Borka azt mondta türelmetlenebb, szomorúbb. Zsófi nem látta így, szerinte viszont talájam ki mi fog földelni, Elvonulni most nem tudok, és nem is ez a cél, de állítólag más lettem így. Igen, ez most a "lórugás" amivel indítok, ez direkt van, és tök jó viszont a visszajelzés rőla. Azért viszont szeretnék kicsit mélyebbre is menni, mint a testi böjt (nikotin-koffein-ragacskaják-hús-mentes). Remélem menni fog, majd meglássuk.
@@ -18,6 +18,7 @@ _Szellem:_ Az akaratok dinamikája (vázlat):
 
 ## 1.nap (02.17.) - Nikotinhagyó szerda :)
 _Test:_ Súly: 75.7, ezt majd azért méricskélem. Csak víz: 3+ liter. **nincs fejfájás**, kicsit belemélyülősebb kezdete. Dolgozásban persze pont ilyenkor egy kis bosszantós "bug", de megoldottam, szépen ahogy kell. Délután gyerekek elmentek nagyiékhoz, szóval nagy-hosszú-csendes-forró-fürdő után lefekvés, nagy alvás. Álmomra nem emlékszem.
+![víz2](/assets/images/bojtnaplo/water2.jpg)
 
 _Lélek:_ A vízet éli most meg.
 
@@ -25,7 +26,7 @@ _Szellem:_ Hmm..."A teljesség felé"-t olvasgattam, volt ami elég mélyre ment
 > Az ember, akit jönni-menni látsz: zárt, egyéni; s az emberalkat legmélyebb rétege nem zárt, nem egyéni, mindennel összefüggő, azonos a minden alakzat mélyén rejlő egyetlen létezéssel.
 > Az időbeli véges személyiség mögül kibontakozó időtlen végtelenség: a **lélek**. A kibontakozásra nem szoruló időtlen végtelenség: az Isten.
 
-![víz2](/assets/images/bojtnaplo/water2.jpg)
+
 
 ## 2021 Célok
 Előző évhez hasonlatosan: nikotin-koffein mentesítés. 2020-ban megtörtem covid miatt, remélem idén sikerül tovább tartani vagy teljesen végigcsinálni a böjtöt. Szeretnék a böjt alatt sokat a JELENRE fókuszálni, letenni minél több kusza gondolatot (nem a perpillanat érzésre gondolok, hanem annak valami 2.0 verziójára). Ehhez kapcsolódva: testtartás, légzés, mozgás. Kicsit azt érzem információ fogyasztást is csökkentenem kéne, kevesebb digitál.
