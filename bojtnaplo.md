@@ -7,12 +7,12 @@ title: Böjt napló
 ## 3.nap - P
 _Test:_ 3lityi víz, reggel: 1 banán, délben: 1 alma, 1 banán, délután: gyümiszelet, este: **kicseri** kicsi zöldséggel, lightos tea. Visszakapcsolva finoman a normál evős módba. Igaziból simán ment volna még ma is a csak-víz, jól is esett volna, de reggel azt éreztem nem fog most beleférni.
 Autót kellett vezetnem, Borkával keresztül a városon, utána Zsófit vittem, utána irodába, délután Ambrust furika. Közben dolgozni, szóval jobb volt ez így most.
-Séta ma nem volt, hiányzott a mozgás.
+Séta ma nem volt, hiányzott a mozgás. Esti kicserivel teletöltött pocak, már simán tud dolgozni, koncentrálni. Nagyon érdekes megfigyelni ezt az átmenetet magamban is.
 ![ebéd](/assets/images/bojtnaplo/ebed.jpg)
 
 _Lélek:_ Nagyon érzi, hogy mennyire rohan a világ. Nem esett ma jól ez a tempó, de rosszul sem. Viszont nem akart a szokásos "pörgető-nyugtató" szerekhez nyúlni. Jót tesz ha a test tiszta.
 
-_Szellem:_ A mostani "normál" tempóhoz **kell** a fogyasztás (étel, üzemanyag, etc.).
+_Szellem:_ A mostani "normál" tempóhoz **kell** a fogyasztás (étel, üzemanyag, etc.). Meg kéne találni egy nyugodtabb belső tempót ami mégis megállja a helyét a kinti világban.
 ![hamm](/assets/images/bojtnaplo/hamm.jpg)
 
 * * *
