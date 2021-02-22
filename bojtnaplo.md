@@ -4,9 +4,36 @@ title: Böjt napló
 ---
 # 2021
 
+## 6.nap - H
+Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölcs, kicseri, zsöldség, teázás. Viszont éhség érzet azért van, szóval lehet finoman kezdem növelni az adagokat. Egy pászkát ettem vacsihoz, az volt a tervem, hogy búzát még szerdáig kihagyom, de eléggé "vonz" (érdekes megfigyelés).
+
+Ízekre, szagokra tudatosan többet figyelek, és az nagyon jó (pl. kamilla illat - mennyei pillanat). Viszont a "gyorsan" evés kezd visszakúszni, aminek nem örülök. Irodai testtartás még mindig nem az igazi, próbálok rá figyelni, javítgatni.
+
+Sokszor nagyon tiszta pillanatokat élek meg. Olyan néha, mintha egy kristálytiszta hegytetőről érezném a dolgokat. Aztán ez nagyon hamar normálissá válik. Napló írásra is jobban rá kell szánjam magam, mert egyszerűen "nem fér bele" a napi ritmusba.
+
+![india-14éve](/assets/images/bojtnaplo/india.jpg)
+
+
+* * *
+
+## 5.nap - V
+> "Egyenként vizsgáld át egyéniséged minden tartalmát és rendezgesd. Figyeld meg szokásaidat: honnan erednek, mit művelnek, hova tartanak.[...]
+Bontsd szét egyéniségedet és szabaddá válnak lelked végtelen áramai, melyek nem benned vannak és nem kívüled, áthatnak mindenen." - W.S.
+
+* * *
+
+## 4.nap - SZo
+Víz kevesebb, de azért odafigyelős mennyiség. Reggel gyümi, ebéd: nagy adag kicseri, vacsi zöldség + tea (ma a csalánosnak tetszett az illata). Ezzel teljesen jól bírtam az egész napos bulizást: egér-a-kisházban, Gergőékhez Gárdonyba.
+
+Cigizés nem hiányzik, sőt valahogy csomó helyzetben egyszerűbb, hogy nem "kell" rágyújtani, marad idő mást csinálni. Dolgok megkóstolása hiányzik, pl. Gergőék pogija, sütikék, viszont közben van egy annyira tisztult érzés a testben, nincs elnyomva a hasból. Fenti két dolog miatt a légzésre sokkal könnyebb figyelni. És emiatt a testtartásra is.
+
+* * *
+
 ## 3.nap - P
 _Test:_ 3lityi víz, reggel: 1 banán, délben: 1 alma, 1 banán, délután: gyümiszelet, este: **kicseri** kicsi zöldséggel, lightos tea. Visszakapcsolva finoman a normál evős módba. Igaziból simán ment volna még ma is a csak-víz, jól is esett volna, de reggel azt éreztem nem fog most beleférni.
+
 Autót kellett vezetnem, Borkával keresztül a városon, utána Zsófit vittem, utána irodába, délután Ambrust furika. Közben dolgozni, szóval jobb volt ez így most.
+
 Séta ma nem volt, hiányzott a mozgás. Esti kicserivel teletöltött pocak, már simán tud dolgozni, koncentrálni. Nagyon érdekes megfigyelni ezt az átmenetet magamban is.
 ![ebéd](/assets/images/bojtnaplo/ebed.jpg)
 
