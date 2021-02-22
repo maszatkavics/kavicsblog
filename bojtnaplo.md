@@ -5,7 +5,7 @@ title: Böjt napló
 # 2021
 
 ## 6.nap - H
-Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölcs, kicseri, zsöldség, teázás. Viszont éhség érzet azért van, szóval lehet finoman kezdem növelni az adagokat. Egy pászkát ettem vacsihoz, az volt a tervem, hogy búzát még szerdáig kihagyom, de eléggé "vonz" (érdekes megfigyelés).
+Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölcs, kicseri, zöldség, teázás. Viszont éhség érzet azért van, szóval lehet majd finoman kezdem növelni az adagokat. Egy pászkát ettem vacsihoz, az volt a tervem, hogy búzát még szerdáig kihagyom, de eléggé "vonz" (érdekes megfigyelés).
 
 Ízekre, szagokra tudatosan többet figyelek, és az nagyon jó (pl. kamilla illat - mennyei pillanat). Viszont a "gyorsan" evés kezd visszakúszni, aminek nem örülök. Irodai testtartás még mindig nem az igazi, próbálok rá figyelni, javítgatni.
 
@@ -66,7 +66,7 @@ _Szellem:_ Az akaratok dinamikája (vázlat):
 _Test:_ Súly: 75.7, ezt majd azért méricskélem. Csak víz: 3+ liter. **nincs fejfájás**, kicsit belemélyülősebb kezdete. Dolgozásban persze pont ilyenkor egy kis bosszantós "bug", de megoldottam, szépen ahogy kell. Délután gyerekek elmentek nagyiékhoz, szóval nagy-hosszú-csendes-forró-fürdő után lefekvés, nagy alvás. Álmomra nem emlékszem.
 ![víz2](/assets/images/bojtnaplo/water2.jpg)
 
-_Lélek:_ A vízet éli most meg.
+_Lélek:_ A vizet éli most meg.
 
 _Szellem:_ Hmm..."A teljesség felé"-t olvasgattam, volt ami elég mélyre ment belőle-belém (aztán persze könnyen sok lesz belőle): ""
 
