@@ -3,6 +3,20 @@ layout: page
 title: Böjt napló
 ---
 # 2021
+###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - W.S.
+
+## 8.nap - SZ
+Beért egy hétnyi tisztulás: felszabadulóban a test.
+
+Rengeteg apró dologban is változtattam, amikről eddig nem is írtam. Ezeket többnyire már tavaly bevezettem, de most bővült. Ez az egyik fő rendező elv a böjtömben: bármi, akár legapróbb szokás: ha zavart az év során, lecserélem (sőt ha nem zavart, csak kíváncsi vagyok "máshogyan is lehet" dimenziókra, akkor is). Példák:
+* iroda: nem használom a mikrót, hanem szépen "főzőcskézem" az ebédet, evés közben csak eszek :), szék-masina-póz változtatás, rendezettebb környezetet tartok
+* kocsiban: állítottam az ülésen, hogy jobban kinyújthassam magam, nem hallgatok podcastot-rádiót
+* egész nap: minimalizáltam a telefon nyomkodást (klotyira sem viszem be :)
+Sokszor eszembe jut Tomi öccs, mikor mondtam neki, hogy a két fő cél a nikotín és a koffein elhagyás, akkor mivel neki ez nincs így nincs is mit böjtölnie. Szerintem mindenkinek volna rengeteg ilyen apróság-változtatni való. Amit megfigyeltem, hogy ezek még többet tudnak "dobni" a változásokon, mint a nagy magasztos célok. Olyasmi, mint az abalktörlés a kocsiban, mikor kicsit sáros az út.
+
+Most hogy a második hétbe léptem, elkezdtem tudatosan turbózni az ízeket, persze szép fokozatosan, de szépen hozom be a zöldfűszereket, kicsit sót, sokféle gyógyteát (levendula-édeskömény-kamilla kombó :), magvas dolgokat (diákcsemege). Mellette persze maradt a sok gyümölcs és zöldség.
+
+![hamik](/assets/images/bojtnaplo/hamik.png)
 
 ## 6.nap - H
 Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölcs, kicseri, zöldség, teázás. Viszont éhség érzet azért van, szóval lehet majd finoman kezdem növelni az adagokat. Egy pászkát ettem vacsihoz, az volt a tervem, hogy búzát még szerdáig kihagyom, de eléggé "vonz" (érdekes megfigyelés).
@@ -12,6 +26,7 @@ Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölc
 Sokszor nagyon tiszta pillanatokat élek meg. Olyan néha, mintha egy kristálytiszta hegytetőről érezném a dolgokat. Aztán ez nagyon hamar normálissá válik. Napló írásra is jobban rá kell szánjam magam, mert egyszerűen "nem fér bele" a napi ritmusba.
 
 ![india-14éve](/assets/images/bojtnaplo/india.jpg)
+###### Hampi, India - 2007.02.22
 
 
 * * *
