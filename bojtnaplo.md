@@ -2,15 +2,19 @@
 layout: page
 title: Böjt napló
 ---
-###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - Weöres Sándor: A teljesség felé / A szabály mint fogság és mint szabadság
+###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - Weöres Sándor: A teljesség felé / A szabály mint fogság és mint szabadság -
 
 # 2021
+
+* * *
 
 ## 9.nap - CS
 Alvás kezd beállni fixen 6 óra hosszúra (múlt héten nagyobbakat aludtam, amúgy a 6óra az átlag időm), álmodás nincs. Viszont így ha időben fekszem, akkor reggel megébredek hamar és elpárolgott a szokásos lustaságom, amivel visszaalszok még. Ígyhát tornázás-nyújtózkodás-jógázás-meditálás van reggel (ma pl. hajnali 3:33tól - 5:55ig). Nagyon szeretem az ilyet: mozgásban hagyom hogy szabadon vezessen a testem, a Shivantartól tanult sokféle mozgásminta alapján improvizál. Meditálás: csak szimpla "ülés", teljes üresség megtapasztalása volna a cél, de persze ettől még jó messze vagyok. Majd írok, hogy alakul.
 
 _Gondolat_: A Hármasság egysége kétségtelen.  
 Jól hangzó cím, de tartalom is van mögötte: most dolgozni kell, de hamarosan kifejtem.
+
+* * *
 
 ## 8.nap - SZ
 Beért **egy hétnyi** tisztulás: felszabadulóban a test. Súly: 72,8kg, közérzet: tökéletes  (nagyon enyhe taknyosság)
@@ -25,6 +29,8 @@ Most hogy a második hétbe léptem, elkezdtem tudatosan turbózni az ízeket, p
 
 ![hamik](/assets/images/bojtnaplo/hamik.png)
 
+* * *
+
 ## 6.nap - H
 Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölcs, kicseri, zöldség, teázás. Viszont éhség érzet azért van, szóval lehet majd finoman kezdem növelni az adagokat. Egy pászkát ettem vacsihoz, az volt a tervem, hogy búzát még szerdáig kihagyom, de eléggé "vonz" (érdekes megfigyelés).
 
@@ -34,7 +40,6 @@ Sokszor nagyon tiszta pillanatokat élek meg. Olyan néha, mintha egy kristályt
 
 ![india-14éve](/assets/images/bojtnaplo/india.jpg)
 ###### Hampi, India - 2007.02.22
-
 
 * * *
 
