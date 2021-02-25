@@ -25,6 +25,10 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
+h6 {
+  font-size: 0.6em;
+}
+
 p {
   text-align: justify;
 }
@@ -33,7 +37,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
 }
 
 blockquote {
@@ -45,9 +49,6 @@ ul {
   padding-left: 20px;
 }
 
-li {
-  padding-left: 0px;
-}
 #container {
   background: none;
 }

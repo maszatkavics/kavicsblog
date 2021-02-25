@@ -2,11 +2,18 @@
 layout: page
 title: Böjt napló
 ---
+###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - Weöres Sándor: A teljesség felé / A szabály mint fogság és mint szabadság
+
 # 2021
-###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - W.S.
+
+## 9.nap - CS
+Alvás kezd beállni fixen 6 óra hosszúra (múlt héten nagyobbakat aludtam, amúgy a 6óra az átlag időm), álmodás nincs. Viszont így ha időben fekszem, akkor reggel megébredek hamar és elpárolgott a szokásos lustaságom, amivel visszaalszok még. Ígyhát tornázás-nyújtózkodás-jógázás-meditálás van reggel (ma pl. hajnali 3:33tól - 5:55ig). Nagyon szeretem az ilyet: mozgásban hagyom hogy szabadon vezessen a testem, a Shivantartól tanult sokféle mozgásminta alapján improvizál. Meditálás: csak szimpla "ülés", teljes üresség megtapasztalása volna a cél, de persze ettől még jó messze vagyok. Majd írok, hogy alakul.
+
+_Gondolat_: A Hármasság egysége kétségtelen.  
+Jól hangzó cím, de tartalom is van mögötte: most dolgozni kell, de hamarosan kifejtem.
 
 ## 8.nap - SZ
-Beért egy hétnyi tisztulás: felszabadulóban a test.
+Beért **egy hétnyi** tisztulás: felszabadulóban a test. Súly: 72,8kg, közérzet: tökéletes  (nagyon enyhe taknyosság)
 
 Rengeteg apró dologban is változtattam, amikről eddig nem is írtam. Ezeket többnyire már tavaly bevezettem, de most bővült. Ez az egyik fő rendező elv a böjtömben: bármi, akár legapróbb szokás: ha zavart az év során, lecserélem (sőt ha nem zavart, csak kíváncsi vagyok "máshogyan is lehet" dimenziókra, akkor is). Példák:
 * iroda: nem használom a mikrót, hanem szépen "főzőcskézem" az ebédet, evés közben csak eszek :), szék-masina-póz változtatás, rendezettebb környezetet tartok
@@ -14,7 +21,7 @@ Rengeteg apró dologban is változtattam, amikről eddig nem is írtam. Ezeket t
 * egész nap: minimalizáltam a telefon nyomkodást (klotyira sem viszem be :)
 Sokszor eszembe jut Tomi öccs, mikor mondtam neki, hogy a két fő cél a nikotín és a koffein elhagyás, akkor mivel neki ez nincs így nincs is mit böjtölnie. Szerintem mindenkinek volna rengeteg ilyen apróság-változtatni való. Amit megfigyeltem, hogy ezek még többet tudnak "dobni" a változásokon, mint a nagy magasztos célok. Olyasmi, mint az abalktörlés a kocsiban, mikor kicsit sáros az út.
 
-Most hogy a második hétbe léptem, elkezdtem tudatosan turbózni az ízeket, persze szép fokozatosan, de szépen hozom be a zöldfűszereket, kicsit sót, sokféle gyógyteát (levendula-édeskömény-kamilla kombó :), magvas dolgokat (diákcsemege). Mellette persze maradt a sok gyümölcs és zöldség.
+Most hogy a második hétbe léptem, elkezdtem tudatosan turbózni az ízeket, persze szép fokozatosan, de szépen hozom be a zöldfűszereket, kicsit sót, sokféle gyógyteát (levendula-édeskömény-kamilla kombó :), magvas dolgokat (diákcsemege). Mellette persze maradt a sok gyümölcs és zöldség (és plusz néhány vitamin)
 
 ![hamik](/assets/images/bojtnaplo/hamik.png)
 
@@ -78,7 +85,7 @@ _Szellem:_ Az akaratok dinamikája (vázlat):
 * * *
 
 ## 1.nap (02.17.) - Nikotinhagyó szerda :)
-_Test:_ Súly: 75.7, ezt majd azért méricskélem. Csak víz: 3+ liter. **nincs fejfájás**, kicsit belemélyülősebb kezdete. Dolgozásban persze pont ilyenkor egy kis bosszantós "bug", de megoldottam, szépen ahogy kell. Délután gyerekek elmentek nagyiékhoz, szóval nagy-hosszú-csendes-forró-fürdő után lefekvés, nagy alvás. Álmomra nem emlékszem.
+_Test:_ Súly: 75.7kg, ezt majd azért méricskélem. Csak víz: 3+ liter. **nincs fejfájás**, kicsit belemélyülősebb kezdete. Dolgozásban persze pont ilyenkor egy kis bosszantós "bug", de megoldottam, szépen ahogy kell. Délután gyerekek elmentek nagyiékhoz, szóval nagy-hosszú-csendes-forró-fürdő után lefekvés, nagy alvás. Álmomra nem emlékszem.
 ![víz2](/assets/images/bojtnaplo/water2.jpg)
 
 _Lélek:_ A vizet éli most meg.
