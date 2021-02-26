@@ -89,7 +89,6 @@ Séta ma nem volt, hiányzott a mozgás. Esti kicserivel teletöltött pocak, m�
 _Lélek:_ Nagyon érzi, hogy mennyire rohan a világ. Nem esett ma jól ez a tempó, de rosszul sem. Viszont nem akart a szokásos "pörgető-nyugtató" szerekhez nyúlni. Jót tesz ha a test tiszta.
 
 _Szellem:_ A mostani "normál" tempóhoz **kell** a fogyasztás (étel, üzemanyag, etc.). Meg kéne találni egy nyugodtabb belső tempót ami mégis megállja a helyét a kinti világban.
-![hamm](/assets/images/bojtnaplo/hamm.jpg)
 
 * * *
 
