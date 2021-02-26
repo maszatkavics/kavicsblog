@@ -9,25 +9,29 @@ title: Böjt napló
 * * *
 
 ## 10.nap - P
-Reggel kicsit több taknyosság, nagyobb alvás. Ez jelzés: valamifajta fordulópont. Az is jelezett, hogy tegnap úgy kedvem lett volna a kávé-cigizős mozdulathoz.
+_Reggel:_ kicsit több taknyosság, nagyobb alvás. Ez jelzés IS: valamifajta fordulópont.  
+(Az is jelezett, hogy tegnap egy pillanatra úgy kedvem lett volna a kávé-cigizős mozdulathoz)
 
-Lelki fordulópont is: hullámvölgy, gyerekek túlságosan utánoznak a kajálásban, Zsófi is mondta, hogy túlságosan központi dolog lett, hogy Apa böjtöl. Igazat adok neki, és jogos a kritika, bölcsebben kell csinálnom.  
+_Hullámvölgy:_ gyerekek túlságosan utánoznak a kajálásban (felborult a családi megszokott, és ők jeleznek). Zsófi is mondta, hogy túlságosan központi dolog lett, hogy Apa böjtöl. Igazat adok neki, és jogos a kritika, bölcsebben kell csinálnom.   
 Abbahagyjam gondolat is felmerült bennem, de nem akarom. Vissza kell venni az önmagammal foglalkozásból, visszaállni a "normál-nyitott" Peti-be.  
-Érdekes konkrétan megtapasztalni a külső nyomást az emberen = vállam be van feszülve sokat. A böjt miatt ezt sokkal finomabb sikokon is érzem, jobban jelez a szervezet, könnyebb figyelni a jeleket, mert a test nincs elnyomva.
+Érdekes konkrétan megtapasztalni a külső nyomást az emberen = vállam be van feszülve sokat. A böjt miatt ezt sokkal finomabb síkokon is érzem, jobban jelez a szervezet (könnyebb figyelni a jeleket, mert a test nincs elnyomva).
 
-Étrend: reggelire gyümölcs, magvak ..  ebédre isteni "Kicseri Ragu" (sokféle zöldség kevés vízben puhára párolva, kevés olaj, friss zöldfűszerek, pici só, és bele melegítve az előre elkészített kicseri) .. délután gyümölcs .. vacsihoz ettem egy kis füstölt sajtot (az első állatól származó étel), pászkával, sok zöldséggel. Estére csodafőzet (bodza, kamilla, körömvirág, édeskömény)
+_Étrend:_ reggelire gyümölcs, magvak ..  ebédre isteni "Kicseri Ragu" (sokféle zöldség kevés vízben puhára párolva, kevés olaj, friss zöldfűszerek, pici só, és bele melegítve az előre elkészített kicseri) .. délután gyümölcs .. vacsihoz ettem egy kis füstölt sajtot (az első állatól származó étel), pászkával, sok zöldséggel. Estére csodafőzet (bodza, kamilla, körömvirág, édeskömény).
 
-![pandatea](/assets/images/bojtnaplo/pandatea.png)
+![pandatea](/assets/images/bojtnaplo/pandatea.jpg)
 
 * * *
 
 ## 9.nap - CS
-Alvás kezd beállni fixen 6 óra hosszúra (múlt héten nagyobbakat aludtam, amúgy a 6óra az átlag időm), álmodás nincs. Viszont így ha időben fekszem, akkor reggel megébredek hamar és elpárolgott a szokásos lustaságom, amivel visszaalszok még. Ígyhát tornázás-nyújtózkodás-jógázás-meditálás van reggel (ma pl. hajnali 3:33tól - 5:55ig). Nagyon szeretem az ilyet: mozgásban hagyom hogy szabadon vezessen a testem, a Shivantartól tanult sokféle mozgásminta alapján improvizál. Meditálás: csak szimpla "ülés", teljes üresség megtapasztalása volna a cél, de persze ettől még jó messze vagyok. Majd írok, hogy alakul.
+_Alvás:_ kezd beállni fixen 6 óra hosszúra (múlt héten nagyobbakat aludtam, amúgy a 6óra az átlag időm), álmodás nincs. Viszont így ha időben fekszem, akkor reggel megébredek hamar és elpárolgott a szokásos lustaságom, ami miatt alapból visszaalszok még.
 
-_Gondolat_: A Hármasság egysége (kétségtelen)  
-Jól hangzó cím, de tartalom is van mögötte: most dolgozni kell, de majd egyszercsak kifejtem(, vagy csak megélem). Vázlatosan: ha lekapcsolod magadban a test és lélek érzetét, akkor FLOWban van a szellemed. Ha lekapcsolod a gondolkodást és a lelket, akkor tökéletesen fókuszált lesz a tested. Alváskor test és jó esetben szellem lekapcs, ilyenkor él a Lélek. Ha mindhárom érzet lekapcs, akkor Zen. Ha minden felkapcs, akkor budha. És ezek az állapotok szépen egységben működnek bennünk folyamatosan hullámozva mindhárom dimenziónkon.
+_Mozgás:_ tornázás-nyújtózkodás-jógázás-meditálás van reggel (ma pl. hajnali 3:33tól - 5:55ig). Nagyon szeretem az ilyet: mozgásban hagyom hogy szabadon vezessen a testem, a Shivantartól tanult sokféle mozgásminta alapján improvizál. Meditálás: csak szimpla "ülés", teljes üresség megtapasztalása volna a cél, de persze ettől még jó messze vagyok. Majd írok, hogy alakul.
 
-![3in1](/assets/images/bojtnaplo/3in1.png)
+_Gondolat_: **A Hármasság Egysége (kétségtelen)**  
+Jól hangzó cím, de tartalom is van mögötte, amit majd egyszercsak kifejtek talán részletesen(, vagy inkább csak megélem :)  
+Vázlatosan: ha lekapcsolod magadban a test és lélek érzetét, akkor FLOW-ban van a szellemed. Ha lekapcsolod a gondolkodást és a lelket, akkor tökéletesen fókuszált lesz a test. Alváskor test és (jó esetben) szellem lekapcs, ilyenkor él a Lélek. Ha mindhárom érzet lekapcs, akkor teljes üresség (Zen). Ha minden felkapcs, akkor valódi felébredés (Buddha). És ezek az állapotok szépen egységben működnek bennünk folyamatosan hullámozva minden dimenziónkon.
+
+![3in1](/assets/images/bojtnaplo/3in1.jpg)
 
 * * *
 
