@@ -2,17 +2,32 @@
 layout: page
 title: Böjt napló
 ---
-###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - Weöres Sándor: A teljesség felé / A szabály mint fogság és mint szabadság -
+###### "Bontsd le szeszélyeid, sóvárgásaid, nem azért hogy nélkülük nyomorogj, hanem, hogy folyhass, mint a víz, és biztos lehess, mint az ég." - Weöres Sándor: A teljesség felé / A szabály mint fogság és mint szabadság
 
 # 2021
+
+* * *
+
+## 10.nap - P
+Reggel kicsit több taknyosság, nagyobb alvás. Ez jelzés: valamifajta fordulópont. Az is jelezett, hogy tegnap úgy kedvem lett volna a kávé-cigizős mozdulathoz.
+
+Lelki fordulópont is: hullámvölgy, gyerekek túlságosan utánoznak a kajálásban, Zsófi is mondta, hogy túlságosan központi dolog lett, hogy Apa böjtöl. Igazat adok neki, és jogos a kritika, bölcsebben kell csinálnom.  
+Abbahagyjam gondolat is felmerült bennem, de nem akarom. Vissza kell venni az önmagammal foglalkozásból, visszaállni a "normál-nyitott" Peti-be.  
+Érdekes konkrétan megtapasztalni a külső nyomást az emberen = vállam be van feszülve sokat. A böjt miatt ezt sokkal finomabb sikokon is érzem, jobban jelez a szervezet, könnyebb figyelni a jeleket, mert a test nincs elnyomva.
+
+Étrend: reggelire gyümölcs, magvak ..  ebédre isteni "Kicseri Ragu" (sokféle zöldség kevés vízben puhára párolva, kevés olaj, friss zöldfűszerek, pici só, és bele melegítve az előre elkészített kicseri) .. délután gyümölcs .. vacsihoz ettem egy kis füstölt sajtot (az első állatól származó étel), pászkával, sok zöldséggel. Estére csodafőzet (bodza, kamilla, körömvirág, édeskömény)
+
+![pandatea](/assets/images/bojtnaplo/pandatea.png)
 
 * * *
 
 ## 9.nap - CS
 Alvás kezd beállni fixen 6 óra hosszúra (múlt héten nagyobbakat aludtam, amúgy a 6óra az átlag időm), álmodás nincs. Viszont így ha időben fekszem, akkor reggel megébredek hamar és elpárolgott a szokásos lustaságom, amivel visszaalszok még. Ígyhát tornázás-nyújtózkodás-jógázás-meditálás van reggel (ma pl. hajnali 3:33tól - 5:55ig). Nagyon szeretem az ilyet: mozgásban hagyom hogy szabadon vezessen a testem, a Shivantartól tanult sokféle mozgásminta alapján improvizál. Meditálás: csak szimpla "ülés", teljes üresség megtapasztalása volna a cél, de persze ettől még jó messze vagyok. Majd írok, hogy alakul.
 
-_Gondolat_: A Hármasság egysége kétségtelen.  
-Jól hangzó cím, de tartalom is van mögötte: most dolgozni kell, de hamarosan kifejtem.
+_Gondolat_: A Hármasság egysége (kétségtelen)  
+Jól hangzó cím, de tartalom is van mögötte: most dolgozni kell, de majd egyszercsak kifejtem(, vagy csak megélem). Vázlatosan: ha lekapcsolod magadban a test és lélek érzetét, akkor FLOWban van a szellemed. Ha lekapcsolod a gondolkodást és a lelket, akkor tökéletesen fókuszált lesz a tested. Alváskor test és jó esetben szellem lekapcs, ilyenkor él a Lélek. Ha mindhárom érzet lekapcs, akkor Zen. Ha minden felkapcs, akkor budha. És ezek az állapotok szépen egységben működnek bennünk folyamatosan hullámozva mindhárom dimenziónkon.
+
+![3in1](/assets/images/bojtnaplo/3in1.png)
 
 * * *
 
@@ -21,11 +36,14 @@ Beért **egy hétnyi** tisztulás: felszabadulóban a test. Súly: 72,8kg, köz�
 
 Rengeteg apró dologban is változtattam, amikről eddig nem is írtam. Ezeket többnyire már tavaly bevezettem, de most bővült. Ez az egyik fő rendező elv a böjtömben: bármi, akár legapróbb szokás: ha zavart az év során, lecserélem (sőt ha nem zavart, csak kíváncsi vagyok "máshogyan is lehet" dimenziókra, akkor is). Példák:
 * iroda: nem használom a mikrót, hanem szépen "főzőcskézem" az ebédet, evés közben csak eszek :), szék-masina-póz változtatás, rendezettebb környezetet tartok
-* kocsiban: állítottam az ülésen, hogy jobban kinyújthassam magam, nem hallgatok podcastot-rádiót
+* kocsiban: állítottam az ülésen, hogy jobban kinyújthassam magam, nem hallgatok podcastot-rádiót (az pl. az ami nem zavart, szeretek sokmindent hallgatni, csak most jobban esik a befele fordulás/kiüresedés/kifele fordulás játék)
 * egész nap: minimalizáltam a telefon nyomkodást (klotyira sem viszem be :)
-Sokszor eszembe jut Tomi öccs, mikor mondtam neki, hogy a két fő cél a nikotín és a koffein elhagyás, akkor mivel neki ez nincs így nincs is mit böjtölnie. Szerintem mindenkinek volna rengeteg ilyen apróság-változtatni való. Amit megfigyeltem, hogy ezek még többet tudnak "dobni" a változásokon, mint a nagy magasztos célok. Olyasmi, mint az abalktörlés a kocsiban, mikor kicsit sáros az út.
 
-Most hogy a második hétbe léptem, elkezdtem tudatosan turbózni az ízeket, persze szép fokozatosan, de szépen hozom be a zöldfűszereket, kicsit sót, sokféle gyógyteát (levendula-édeskömény-kamilla kombó :), magvas dolgokat (diákcsemege). Mellette persze maradt a sok gyümölcs és zöldség (és plusz néhány vitamin)
+Sokszor eszembe jut Tomi öccs, mikor mondtam neki, hogy a két fő cél a nikotín és a koffein elhagyás, akkor mivel neki ez nincs így nincs is mit böjtölnie. Szerintem mindenkinek volna rengeteg ilyen apróság-változtatni való. Amit megfigyeltem, hogy ezek még többet tudnak "dobni a böjtön", mint a nagy magasztos célok.
+
+_Olyasmi, mint az ablaktörlés a kocsiban, mikor kicsit sáros az út._
+
+Most hogy a második hétbe léptem, elkezdtem tudatosan lassan fokozni az ízeket, Szépen hozom be a zöldfűszereket, kicsi sót, sokféle gyógyteát (levendula-édeskömény-kamilla kombó :), magvas dolgokat (diákcsemege). Mellette persze maradt a sok gyümölcs és zöldség (esetenként extra vitamin)
 
 ![hamik](/assets/images/bojtnaplo/hamik.png)
 
