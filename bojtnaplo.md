@@ -33,7 +33,7 @@ Egészen kezdem érezni a szükséges energia szinteket és a kajabevitlet, kezd
 _Izgalmas nap volt._ Reggel úgy döntöttem beemenlem a kását (zab, rízstej), de kicst nagy volt az adag így eléggé belaktam. És fél órával rá, már azt éreztem, hogy de jól esne erre az állapotra egy cigi. Úgyhogy volt egyfajta **mini böjt-törés**, de azt gondolom ez teljesen belefér.  
 Azóta sem gyújtottam rá (hétfőn írom), bár vasárnap is volt rá gondolat, hogy "na csak egy szálat ma is". Mindig így kezdi a rámtekeredést a nikotin, és érdekes hogy mennyire durván fejben játszik, hisz szombat előtt 11 napja nem gyújtottam rá és 2 nap alatt a nikorin a testből kiürül.
 
-![jegviz](/assets/images/bojtnaplo/jegviz.jpg)
+![jegviz](/assets/images/bojtnaplo/jegsar.jpg)
 
 * * *
 
