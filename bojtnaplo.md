@@ -6,6 +6,35 @@ title: Böjt napló
 
 # 2021
 
+## 13.nap - H
+
+_Hajnali holdfény jóga:_ csodaszép volt. Az is lett, hogy szerintem mivel lightos a vacsi nagyon (maxi 1 pászka, zöldségek, kicsi sajt) így 6 óra alvás után teljesen megébredek. Nem az a lustizós felébredés, hanem teljes kipihentség, és pár perccel az ébredés után már "nem akarsz feküdni, mert minek"- érzés.
+
+_Reggel_ megmaradt kicsi zabkása, az nagyon jól esett. Úgy látszik nagyon fontos a mennyiség reggel.  
+Taknyosság sajnos nem múlik, csak elég lassan, de nem zavaró. Vízivás kb. 2 lityire beállt, teázás is van mellé, fejfájás totál semmi, súly 73kg körül.
+
+_Ma_ először volt egy nagyon erős új érzésem: **könnyű lett a testem**. Nem tudom jól leírni, valahogy belsőleg érzés, és elmondhatatlanul jó. Pedig eleve nem vagyok elhízva, meg azért mozgok, meg egészségeseket eszek, DE ez most még egy új szintje a testnek. Rengeteg zöldség-gyümölcs miatt semmi ragacsos nincs benne, kipucolódott minden, és ez így két hét alatt érik be nálam ezekszerint. Magától lélegzik mélyeket, nagyokat. Egyre többször kihúzza magát.
+
+![spenci](/assets/images/bojtnaplo/spenci.jpg)
+
+* * *
+
+## 12.nap - V
+
+Gyerkőcökkel bandáztuk, ebédre egy **Zöldség Megamix**-et nyomtam: húslevesben kifőtt zöldségek, rakott kelből a "levél", spenót, kicseri, összemelegítve: nyami ... (Ambrus még ránézni sem bírt, azt mondta ez túlságosan olyan mint egy hányás :)  
+Egészen kezdem érezni a szükséges energia szinteket és a kajabevitlet, kezd átállni a testem. Néha vannak még "elszámítások", de nagyon alakul a test szint, ami tudom hogy gravitálja majd erősen a többi szintet is.
+
+![high](/assets/images/bojtnaplo/high.jpg)
+
+* * *
+
+## 11.nap - Szo
+
+_Izgalmas nap volt._ Reggel úgy döntöttem beemenlem a kását (zab, rízstej), de kicst nagy volt az adag így eléggé belaktam. És fél órával rá, már azt éreztem, hogy de jól esne erre az állapotra egy cigi. Úgyhogy volt egyfajta **mini böjt-törés**, de azt gondolom ez teljesen belefér.  
+Azóta sem gyújtottam rá (hétfőn írom), bár vasárnap is volt rá gondolat, hogy "na csak egy szálat ma is". Mindig így kezdi a rámtekeredést a nikotin, és érdekes hogy mennyire durván fejben játszik, hisz szombat előtt 11 napja nem gyújtottam rá és 2 nap alatt a nikorin a testből kiürül.
+
+![jegviz](/assets/images/bojtnaplo/jegviz.jpg)
+
 * * *
 
 ## 10.nap - P
