@@ -10,17 +10,23 @@ title: Böjt napló
 
 ## 20.nap - H (03.08) -> 28.nap K (03.16)
 Így zártam 8 nappal ezelőtt a gyorsnaplóm sorait: "Cigizés, kakaós csiga, péksütik…ajjajj..vacsira legalább egy kis emlék: kicseri :) .. ez van"  
-És kb. ez lett azóta is. Gyerekek itthon tanulnak, és megint mint tavaly, nincs többlet energia valósan magamra figyelni. Szinte már visszaemlékezek csak arra a könnyű állapotra, ami 2 hete volt, tényleg csak ismételném magamat: "ez van". Nem tudom menni fog-e még valami cigizésmentesség, de jó lenne. Amiket vannak még böjt dolgok:
+És kb. ez lett azóta is. Gyerekek itthon tanulnak, és megint mint tavaly, nincs többlet energia valósan magamra figyelni. Szinte már visszaemlékezek csak arra a könnyű állapotra, ami 2 hete volt, tényleg csak ismételném magamat: "ez van". Nem tudom menni fog-e még valami cigizésmentesség, de jó lenne.  
+
+Amik vannak még böjt dolgok:
 * irodában nem kávézok, nem cigizek (így azért csak fele a méreganyag, itthon viszont sajnos nem műxik a dolog)
-* _kicseri_ még kíséri tovább a böjtöt, ez jó dolog, sokat tudok vele "gasztro" variálni, és legalább valami böjt-feeling maradt + húsmentességet tartom.
-* sok gyümölcs evésre figyelek, sütiből viszont kevés, éhesség érzés nincs, kenyér evés van, néha esti belakás ami azért nem olyan jó
+* **kicseri** még kíséri tovább a böjtöt, ez jó dolog, sokat tudok vele "gasztro" variálni, és legalább valami böjt-feeling maradt + húsmentességet tartom.
+* több gyümölcs evésre figyelek, sütiből viszont kevés, éhesség érzés nincs, kenyér evés van, néha esti belakás ami azért nem olyan jó
 * vízmennyiségre sajna nem nagyon figyelek, teázás sincs túlságosan. Ezeket elnyomja a kávé, a cigi meg a kajálás.
 * reggeli kora kelés + jógázás nem megy sajnos, ez nagyon hiányzik.
+* napló írás sajnos nagyon kimaradt, de legalább most pótlom, **nem adtam fel teljesen** a böjtöt mint tavaly, és ez már így eredmény, kicsi büszkeség :)
+* súly: 73kg körül, úgy látszik ennyi kaja kell a szintentartáshoz, következő böjtöknél érdemes végiggondolni mivel lehet kiváltani energiabevitelben a kenyérfélét
 
-Olvastam Poppert, meg néztem is videón. Jól esett, de azt érzem, hogy valahogy szétforgácsolódik a figyelem. Most így visszagondolva: **a normál állapot kb. olyan mint betépve lenni információtól**
+Olvastam Poppert, meg néztem is videón. Jól esett, de azt érzem, hogy valahogy szétforgácsolódik a figyelem. Most így végiggondolva: **a normál állapot kb. olyan mint betépve lenni információtól**.  
 Nem készítettem fotókat sem, visszapottyantam valami kevésbé tudatos sodródásba. Még nem tartok ott, hogy a nehezítő külső körülményeket ne találjam lehúzónak, de fontos ide írnom, ez így van rendjén. Csak éles a kontraszt, de legalább látom, érzem.
 
 _Lélek-nyitogatás_ azért csökkentett módban történik a háttérben, ezt érzem, de nem tudom most jól szavakká formálni, elég összetett.
+
+_Gondolat:_ Mostani életemben több a dolgom, mint egy teljesen letisztítot "szerzetesi" nyugalomban eljutni a megvilágosodáshoz. Itt most zajló élet van, és ebben kell megtalálni az utat.
 
 ![cicakop](/assets/images/bojtnaplo/cicakop.jpg)
 
@@ -55,7 +61,7 @@ Szépen visszakúszogat a mobilozás, hírpörgetés is, de ezt is igyekszem kon
 ## 17.nap - P
 
 _Újratervezés_ (boldog születés napot tavalyi karantén):
-* Hétfőtől *húsvétig itthon lesznek a gyerekek*, szóval át kell gondolnom nagyon a dolgokat. Alapvetően cigizni nem szeretnék, de tegnap és ma is elszívtam egy szálat. Jó lenne egy nagy akaraterővel mégis kitartani.
+* Hétfőtől **húsvétig itthon lesznek a gyerekek**, szóval át kell gondolnom nagyon a dolgokat. Alapvetően cigizni nem szeretnék, de tegnap és ma is elszívtam egy szálat. Jó lenne egy nagy akaraterővel mégis kitartani.
 * A súlyom 71kiló körülre lement, ami így két hét alatt túl sok csökkenés. El kell kezdenem többet enni. Ezt is át kell gondolni, valószínűleg a tésztaféléket beemelem. Lehet kicseris dolgot is elengedem és eszek nagyjából amit a többiek
 * Az is lehet, hogy abbahagyom a böjt-mulatságot..
 
@@ -76,6 +82,7 @@ _Újraolvasás:_ [Lemenni mélyre, felhozni elsüllyedt kincseket](https://www.f
 _Virrasztás:_ Analemma kutatás (EquasionOfTime)
 ![analemma](/assets/images/bojtnaplo/EquationofTimeandAnalemma.gif)
 
+_Jövőből:_ ez a nap volt egy nagy kizökkenés, érdemes lehet majd kielemezgetni az ilyeneket.
 * * *
 
 ## 16.nap - CS
@@ -90,7 +97,7 @@ _Összefüggés-gondolat_, amit ki kéne kísérleteznem: ha este nem nézem mon
 
 Ebéd: cukkini + zakuszka + kicseri + csírák. Nagyon fincsi!
 
-_Jövőből gondolat:_ Egy szuper kép az erőből, ami megmutatja, hogy milyen egy szuper-könnyű, de mégis "gubanc"
+_Jövőből gondolat:_ Egy szuper kép az erdőből, ami megmutatja, hogy milyen egy szuper-könnyű, de mégis "gubanc", avagy meta-forrás:
 ![gubanc](/assets/images/bojtnaplo/gubanc.jpg)
 
 * * *
@@ -105,7 +112,7 @@ _Jövőből tanulság:_ Valóban ez a két hét volt idén a fordulópont, ezt �
 * * *
 
 ## 14.nap - K
-_Jövőből gondolat:_ Innentől "gyors naplós" átiratok következnek. Igazándiból pont két héttel később jutottam oda, hogy beszerkesszem. Történ az alatt sokminden, már most érdemes lenne visszaolvasnom, hátmég majd jövőref
+_Jövőből gondolat:_ Innentől "gyors naplós" átiratok következnek. Igazándiból pont két héttel később jutottam oda, hogy beszerkesszem. Történt az alatt sokminden, már most érdemes lenne visszaolvasnom, hátmég majd jövőref
 
 
 _Jelenlét:_ Semmi küli nap, Mountainboard szezont elkezdtem, lélek kalendáris 47-es, Újra elő lehetne venni a Teljesség útját.  
