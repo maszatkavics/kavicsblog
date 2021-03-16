@@ -6,7 +6,116 @@ title: Böjt napló
 
 # 2021
 
-## 13.nap - H
+* * *
+
+## 20.nap - H (03.08) -> 28.nap K (03.16)
+Így zártam 8 nappal ezelőtt a gyorsnaplóm sorait: "Cigizés, kakaós csiga, péksütik…ajjajj..vacsira legalább egy kis emlék: kicseri :) .. ez van"  
+És kb. ez lett azóta is. Gyerekek itthon tanulnak, és megint mint tavaly, nincs többlet energia valósan magamra figyelni. Szinte már visszaemlékezek csak arra a könnyű állapotra, ami 2 hete volt, tényleg csak ismételném magamat: "ez van". Nem tudom menni fog-e még valami cigizésmentesség, de jó lenne. Amiket vannak még böjt dolgok:
+* irodában nem kávézok, nem cigizek (így azért csak fele a méreganyag, itthon viszont sajnos nem műxik a dolog)
+* _kicseri_ még kíséri tovább a böjtöt, ez jó dolog, sokat tudok vele "gasztro" variálni, és legalább valami böjt-feeling maradt + húsmentességet tartom.
+* sok gyümölcs evésre figyelek, sütiből viszont kevés, éhesség érzés nincs, kenyér evés van, néha esti belakás ami azért nem olyan jó
+* vízmennyiségre sajna nem nagyon figyelek, teázás sincs túlságosan. Ezeket elnyomja a kávé, a cigi meg a kajálás.
+* reggeli kora kelés + jógázás nem megy sajnos, ez nagyon hiányzik.
+
+Olvastam Poppert, meg néztem is videón. Jól esett, de azt érzem, hogy valahogy szétforgácsolódik a figyelem. Most így visszagondolva: **a normál állapot kb. olyan mint betépve lenni információtól**
+Nem készítettem fotókat sem, visszapottyantam valami kevésbé tudatos sodródásba. Még nem tartok ott, hogy a nehezítő külső körülményeket ne találjam lehúzónak, de fontos ide írnom, ez így van rendjén. Csak éles a kontraszt, de legalább látom, érzem.
+
+_Lélek-nyitogatás_ azért csökkentett módban történik a háttérben, ezt érzem, de nem tudom most jól szavakká formálni, elég összetett.
+
+![cicakop](/assets/images/bojtnaplo/cicakop.jpg)
+
+* * *
+
+## 19.nap - V
+
+_Gyorsnapló:_ 73kiló: amiatt méricskélem, mert kíváncsi vagyok a test és a testtel kapcsolatos érzéseim összefüggéseire. Konkrétan pár napja bekapcsolt az **enned kell érzés**, este be is lakmároztam, teli hassal nagy eldölős alvás, és láss csodát..2 kiló visszajött. Fontos hogy ezeket ismerjem, hogyan működök, mert később szeretnék mindenféle böjtöket egyre ügyesebben csinálni.  
+Reggeli: sok gyümölcs, és beizzítottam mindenféle aszalványokat, diákcsemegét, ami szintén jól esik nap közben.
+Lélekkalendáris nagyon jó most a hétre.
+
+Cigi: 5szál, Borka kérdése vacsinál: Apa te akkor most mit is böjtölsz? … hát végülis akkor kb. hús … hmmm
+
+* * *
+
+## 18.nap - Szo
+
+_Gyorsnapló:_ Cigi 3szál, kenyér, almás-túrós süti, de azért maradt a sok gyümölcs, kicseri, ivásra figyelés.  
+
+Pocakomat érzem, hogy dolgozik rendesen vele, de nem fáj tőle. Érdekes megfigyelni így egy kitisztultabb állapotból indulva, milyen az amúgy “normál” állapot. **Sok erőt, figyelmet elvisz az emésztés**, de közben természetesen szükséges. Talán arra is jó lesz ez a böjt, hogy ebben hosszútávon találjak egy jobb egyensúlyt, hiszen legalább kérdés-érzés szinten felmerül a dolog.  
+
+Kicsit elengedést érzek naplóírásban is, jó lenne papír alapon is firkálgatni.
+Határozottan van egy ilyen “második böjt szakasz” érzésem, ahol már nem a testre megy a figyelem. Illetve egy **párhuzamos figyelemnek kéne kialakulnia**, ami monitorozza a testet, tudatosan figyel rá, de nem csak azzal van elfoglalva. Erre most remek gyakorlás lesz ez az előttünk álló időszak.  
+
+Futás nagyon könnyen ment (Frodóval, Ambrussal dunapart), ez jó érzés.  
+Szépen visszakúszogat a mobilozás, hírpörgetés is, de ezt is igyekszem kontrolálni. Jó lenne inkább dedikált időkben hosszabb összefüggő elemzőbb dolgokat olvasni. És valahogy Popper fele van sok gondolatom, szóval elő is veszem hamarosan.
+
+![szendo](/assets/images/bojtnaplo/szendo.jpg)
+
+* * *
+
+## 17.nap - P
+
+_Újratervezés_ (boldog születés napot tavalyi karantén):
+* Hétfőtől *húsvétig itthon lesznek a gyerekek*, szóval át kell gondolnom nagyon a dolgokat. Alapvetően cigizni nem szeretnék, de tegnap és ma is elszívtam egy szálat. Jó lenne egy nagy akaraterővel mégis kitartani.
+* A súlyom 71kiló körülre lement, ami így két hét alatt túl sok csökkenés. El kell kezdenem többet enni. Ezt is át kell gondolni, valószínűleg a tésztaféléket beemelem. Lehet kicseris dolgot is elengedem és eszek nagyjából amit a többiek
+* Az is lehet, hogy abbahagyom a böjt-mulatságot..
+
+Ma reggel ettem vajas pirítós magos kiflit, tejbegrízt.
+
+_Visszakúsznak_ szépen az infokommunikációs csatornák is: már pörgetem néha a facebook, telefonon is. Érdekes megfigyelés ez is, ahogy így visszaengedem őket, jobban lehet érezni: mennyire bezabálják a figyelem energiákat. (Jó kísérlet ez is, javaslom mindenkinek, nem csak böjt idején, bármikor!!)
+
+Napközben: gyümölcsök, Ebéd: krumplifőzi, kenyérrel + egy kis maradék kicseri.  
+
+*Cigi (4szál)*, Kávé kicsi, de koffeint érzem ahogy felpörgetett
+Almás süti, és még egy pohár borleves is volt estefele.
+Vacsira már csak pászka, zöldség.
+
+_Holnap_ folytatni akarom a nikotin-koffein mentest, meglátjuk mi lesz. Bevetem a méregtelenítő teát, szerintem 2. fokozatba léphet ez a böjt-kaland.
+
+_Újraolvasás:_ [Lemenni mélyre, felhozni elsüllyedt kincseket](https://www.facebook.com/photo?fbid=1182277048604153) - “A leírtak mélyen igazak, elgondolkodtatóak. Köszönjük. [..]Pusszantás:Laci”
+
+_Virrasztás:_ Analemma kutatás (EquasionOfTime)
+![analemma](/assets/images/bojtnaplo/EquationofTimeandAnalemma.gif)
+
+* * *
+
+## 16.nap - CS
+
+_Gyorsnapló:_ Erdei séta, **nagyon könnyű test érzés** (soha még nem volt ennyire), patakban fejmosás.
+Sok energiám van, jól tudok koncentrálni, de Attila iszonyat le tud húzni energiában. Remélem segítek neki azzal hogy egy térben vagyunk.  
+
+**Éhesség érzés** még mindig megvan, ha reggel csak gyümölcs.
+Valamiért érzek egy második méregtelenedést, lehet rásegítek majd egy kis teával
+
+_Összefüggés-gondolat_, amit ki kéne kísérleteznem: ha este nem nézem monitort, akkor tudok reggel könnyedén ébredni, tornázni. (az utóbbi napokban nem ment a reggeli “kipattanás”, de nagyon jó volna rájönni hogy mitől függ)  
+
+Ebéd: cukkini + zakuszka + kicseri + csírák. Nagyon fincsi!
+
+_Jövőből gondolat:_ Egy szuper kép az erőből, ami megmutatja, hogy milyen egy szuper-könnyű, de mégis "gubanc"
+![gubanc](/assets/images/bojtnaplo/gubanc.jpg)
+
+* * *
+
+## 15.nap - SZ
+_Gyorsnapló:_ Megszűnt a befelefordultabb állapot ÚJDONSÁGA, és a könnyű test is hamar normálisnak tűnik, gyorsan adaptólódik az ember.  
+Munkában volt egy koncentráció nehezebben menés, de most átfordult és könnyű fókuszálni. Korizás volt, Mitivel hosszabb telefon dumcsi.
+Ebéd: Zakuszkás kicseri, új dimenzió :)
+
+_Jövőből tanulság:_ Valóban ez a két hét volt idén a fordulópont, ezt érdemes lejegyezni. Talán későbbi években majd tovább juthatok ezeknél, vizsgálhatom ezeket a pontokat.
+
+* * *
+
+## 14.nap - K
+_Jövőből gondolat:_ Innentől "gyors naplós" átiratok következnek. Igazándiból pont két héttel később jutottam oda, hogy beszerkesszem. Történ az alatt sokminden, már most érdemes lenne visszaolvasnom, hátmég majd jövőref
+
+
+_Jelenlét:_ Semmi küli nap, Mountainboard szezont elkezdtem, lélek kalendáris 47-es, Újra elő lehetne venni a Teljesség útját.  
+Érdekes lenne, ha a Steiner féle különböző napjain a hétnek fókuszálást elkezdeném (GA267):  
+Kedd: bizonyosság (jobb láb)
+Tegnap: Állhatatosság (bal láb)
+
+* * *
+
+## 13.nap - H (03.01)
 
 _Hajnali holdfény jóga:_ csodaszép volt. Az is lett, hogy szerintem mivel lightos a vacsi nagyon (maxi 1 pászka, zöldségek, kicsi sajt) így 6 óra alvás után teljesen megébredek. Nem az a lustizós felébredés, hanem teljes kipihentség, és pár perccel az ébredés után már "nem akarsz feküdni, mert minek"- érzés.
 
@@ -82,7 +191,7 @@ Most hogy a második hétbe léptem, elkezdtem tudatosan lassan fokozni az ízek
 
 * * *
 
-## 6.nap - H
+## 6.nap - H (02.22)
 Az első olyan nap, amikor suli van gyerekeknek. Teljesen jól bírom: gyümölcs, kicseri, zöldség, teázás. Viszont éhség érzet azért van, szóval lehet majd finoman kezdem növelni az adagokat. Egy pászkát ettem vacsihoz, az volt a tervem, hogy búzát még szerdáig kihagyom, de eléggé "vonz" (érdekes megfigyelés).
 
 Ízekre, szagokra tudatosan többet figyelek, és az nagyon jó (pl. kamilla illat - mennyei pillanat). Viszont a "gyorsan" evés kezd visszakúszni, aminek nem örülök. Irodai testtartás még mindig nem az igazi, próbálok rá figyelni, javítgatni.
@@ -139,7 +248,7 @@ _Szellem:_ Az akaratok dinamikája (vázlat):
 
 * * *
 
-## 1.nap (02.17.) - Nikotinhagyó szerda :)
+## 1.nap (02.17.) - Nikotinhagyó Szerda :)
 _Test:_ Súly: 75.7kg, ezt majd azért méricskélem. Csak víz: 3+ liter. **nincs fejfájás**, kicsit belemélyülősebb kezdete. Dolgozásban persze pont ilyenkor egy kis bosszantós "bug", de megoldottam, szépen ahogy kell. Délután gyerekek elmentek nagyiékhoz, szóval nagy-hosszú-csendes-forró-fürdő után lefekvés, nagy alvás. Álmomra nem emlékszem.
 ![víz2](/assets/images/bojtnaplo/water2.jpg)
 
