@@ -26,7 +26,7 @@ Nem készítettem fotókat sem, visszapottyantam valami kevésbé tudatos sodró
 
 _Lélek-nyitogatás_ azért csökkentett módban történik a háttérben, ezt érzem, de nem tudom most jól szavakká formálni, elég összetett.
 
-_Gondolat:_ Mostani életemben több a dolgom, mint egy teljesen letisztítot "szerzetesi" nyugalomban eljutni a megvilágosodáshoz. Itt most zajló élet van, és ebben kell megtalálni az utat.
+_Gondolat:_ Mostani életemben több a dolgom, mint egy teljesen letisztított "szerzetesi" nyugalomban eljutni a megvilágosodáshoz. Itt most zajló élet van, és ebben kell megtalálni az utat.
 
 ![cicakop](/assets/images/bojtnaplo/cicakop.jpg)
 
