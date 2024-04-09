@@ -5,7 +5,7 @@ date: 2003-12-03 00:34:48+00:00
 layout: post
 link: http://kavics.me/74/
 slug: '74'
-title: Untitled Post
+title: Első jel
 wordpress_id: 74
 categories:
 - Uncategorized
