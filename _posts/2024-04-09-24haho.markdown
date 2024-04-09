@@ -12,8 +12,8 @@ color: purple
 rating: 5
 processed: true
 ---
+### Old-school
+_Derég jártam eme virtuális szegleten..._
 
-_Kedves 2024 Naplóm!_
+Nagyon retró már egy ilyen blog. A nagy virtuális túladagolódás elsöpörte. Vagyis igazándiból papírra írok ceruzával, mert az sokkal jobban esik. De most hogy így leporoltam a biteket, majd lehet visszanézek még. Kicsit olvasgatom a múltat, írogatom a jelent, latolgatom a jövőt.
 
-### Atya-gatya
-Derég jártam eme virtuális szegleten...
